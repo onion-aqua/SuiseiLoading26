@@ -1,0 +1,36 @@
+{
+  "reference": "sc.mp4, decoded at 30 fps",
+  "target": "Large four-point star at upper right of title; keep separate from two tiny inline sparkles",
+  "native_center": [573, 39],
+  "stable_source_center": [419.5, 342.3],
+  "geometry": {
+    "type": "filled concave four-point star with curved flanks and long hairline tips",
+    "width_to_height": 0.80,
+    "note": "The source is a rounded concave glint, not an angular 8-vertex polygon. Suggested title-comp half-extents 20 horizontally and 25 vertically, inner shoulder radius about 4.5. Center follows title only; star itself does not rotate."
+  },
+  "stable_side_title": {
+    "period_frames": 81,
+    "period_seconds": 2.7,
+    "epoch_frame": 598,
+    "phase_expression": "((time*30-598)%81+81)%81",
+    "scale_percent_keys_in_phase_frames": [[0,100],[4,100],[5,90],[6,90],[7,76],[8,76],[9,30],[10,0],[14,0],[15,10],[16,10],[17,30],[18,30],[19,72],[20,94],[21,94],[22,100],[81,100]],
+    "opacity_percent": 100,
+    "interpolation": "Linear at the supplied frame keys, with constant holds where repeated values occur. Source has some duplicated adjacent encoded frames. Source shrinks almost completely before reappearing; avoid sine opacity on an always full-size star.",
+    "evidence": {
+      "full_frames": [598,599,600,601,602,620,621,622],
+      "completely_dark_frames": [608,609,610,611,612],
+      "trough_frames_over_18_to_70s": [611,692,772,854,935,1016,1097,1177,1259,1340,1421,1502,1583,1664,1744,1826,1907,1988,2069],
+      "trough_phase_precision": "Most intervals81 frames; 80 or82 frame intervals appear from reference cadence. The loop phase is accurate to about1 frame.",
+      "source_luma": "Stable core mean about192/255 and central pixel250 above background; disappears to6.9 mean and max8 above background at608..612. At603..606 central pixel remains249..250 while outline contracts. This supports scale animation rather than uniform opacity fading.",
+      "contact_sheet": "analysis/v07_icons/glint_cycle_contact.png",
+      "per_frame_measurements": "analysis/v07_icons/title_glint_measurements.json"
+    }
+  },
+  "center_title_74_to_76": {
+    "behavior": "The title is still scaling/settling, so its star introduction and pulse use a separate timeline. Do not extrapolate the absolute20s side-title phase through this shot.",
+    "scale_percent_keys": [[74.333333,0],[74.433333,0],[74.466667,4],[74.5,20],[74.566667,30],[74.6,55],[74.666667,65],[74.7,85],[74.766667,95],[74.9,100],[75.4,100],[75.5,90],[75.566667,75],[75.6,25],[75.666667,0],[75.8,0],[75.833333,5],[75.866667,15],[75.9,55],[75.966667,75],[76,95],[76.1,100],[76.8,100]],
+    "opacity_percent": 100,
+    "measurement_confidence": "Dark frames and observed component widths are measured; normalized scale values are shape-based approximation because the title parent also changes scale.",
+    "evidence": "title_center_glint_measurements.json: source74.6 component22px wide;74.9..75.07 component41px wide;75.6 component10px;75.667..75.8 glint absent;75.9 component22px;76.1 component39px."
+  }
+}

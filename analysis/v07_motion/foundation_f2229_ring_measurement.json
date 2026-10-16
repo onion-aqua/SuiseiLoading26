@@ -1,0 +1,31 @@
+{
+  "reference_frame": 2229,
+  "reference_time_seconds": 74.3,
+  "analysis": "1440-angle radial luma profile, center640,360, radius260..285 at.1px; excluded |y-360|<=65; brightness linear RGB luma",
+  "results": {
+    "reference": {
+      "radius_px": 271.60000000000264,
+      "peak_luma": 149.97536945812809,
+      "background_luma": 4.27680404122722,
+      "contrast_luma": 145.69856541690086,
+      "fwhm_px": 2.9000000000000004,
+      "equivalent_width_px": 2.8641906045740386
+    },
+    "foundation_v07": {
+      "radius_px": 272.00000000000273,
+      "peak_luma": 142.9917256773399,
+      "background_luma": 4.142053213515146,
+      "contrast_luma": 138.84967246382476,
+      "fwhm_px": 2.6,
+      "equivalent_width_px": 2.552075916923545
+    }
+  },
+  "conclusion": {
+    "current_AE_stroke_compensation": "2.2px screen target, opacity100",
+    "recommendation": "Keep 2.2px; it produces FWHM2.6px and contrast138.85 versus source FWHM2.9px and contrast145.70. This is within subpixel/codec tolerance and only 0.3px thin / 4.7% dimmer. Do not increase to2.5px unless visual review prioritizes a slightly heavier stroke; 2.5px is an optional artistic compensation, not required by measured error.",
+    "radius_error_px": 0.4,
+    "fwhm_error_px": -0.3,
+    "contrast_error_percent": -4.701,
+    "qa_scope": "Read-only native AE foundation_f2229.png versus source frame2229; title glyph shapes are excluded from radial profile by angle strip |y-360|<=65."
+  }
+}

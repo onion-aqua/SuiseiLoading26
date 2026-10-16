@@ -1,0 +1,4818 @@
+{
+  "metadata": {
+    "source": "sc.mp4 decoded frame 0 through frame 90 inclusive",
+    "analysis": "Brightness is local and independent. Gold four/eight-ray decorations pulse strongly; bright white constellation stars fluctuate mildly. No global grid opacity wave or particle spray was observed.",
+    "coordinate_system": "Native chart origin [0,0], layer position [700,700]; source30 inverse phase +5.124166667 deg and inverse scale494/614 applied.",
+    "source_center": [
+      640,
+      360
+    ],
+    "reference_frame": 30,
+    "reference_radius": 614,
+    "native_border_radius": 494,
+    "source_phase_samples": [
+      [
+        0,
+        0.0
+      ],
+      [
+        15,
+        -2.494659
+      ],
+      [
+        30,
+        -5.119667
+      ],
+      [
+        45,
+        -7.806229
+      ],
+      [
+        60,
+        -10.535524
+      ],
+      [
+        90,
+        -16.284656
+      ]
+    ],
+    "pulse_sampling": "Every source frame sampled in a fixed small neighborhood along chart-rigid trajectory; area compensated for shrinking chart, smoothed 1.6 frames. Center/ray classes picked semantically by eye; no raster contours retained.",
+    "keyframes": "All frame numbers are source 30fps frames. Interpolate opacity and scale continuously; avoid Hold. Measured window ends90; continue low-amplitude independent cycles after it if needed.",
+    "counts": {
+      "gold": 32,
+      "white_reinforcements": 12
+    }
+  },
+  "gold_glints": [
+    {
+      "name": "Observed opening gold 01",
+      "x": -323.11428,
+      "y": -288.2747,
+      "r": 0.56319,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 1.60912,
+      "source_frame": 30,
+      "source_point": [
+        208.0,
+        39.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          36.52
+        ],
+        [
+          32,
+          48.77
+        ],
+        [
+          37,
+          32.02
+        ],
+        [
+          45,
+          95.0
+        ],
+        [
+          46,
+          95.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          98.36
+        ],
+        [
+          32,
+          99.54
+        ],
+        [
+          37,
+          97.93
+        ],
+        [
+          45,
+          104.0
+        ],
+        [
+          46,
+          104.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 106.659,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.0,
+        147.6,
+        577.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 46
+    },
+    {
+      "name": "Observed opening gold 02",
+      "x": -273.86587,
+      "y": -301.32749,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        267.5179640718563,
+        17.374251497005986
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          95.0
+        ],
+        [
+          14,
+          12.16
+        ],
+        [
+          15,
+          12.53
+        ],
+        [
+          23,
+          95.0
+        ],
+        [
+          30,
+          85.89
+        ],
+        [
+          45,
+          52.45
+        ],
+        [
+          60,
+          12.26
+        ],
+        [
+          75,
+          17.9
+        ],
+        [
+          90,
+          12.06
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          104.0
+        ],
+        [
+          14,
+          96.02
+        ],
+        [
+          15,
+          96.05
+        ],
+        [
+          23,
+          104.0
+        ],
+        [
+          30,
+          103.12
+        ],
+        [
+          45,
+          99.9
+        ],
+        [
+          60,
+          96.03
+        ],
+        [
+          75,
+          96.57
+        ],
+        [
+          90,
+          96.01
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 68.581,
+      "brightness_samples_0_15_30_45_60_90": [
+        2886.8,
+        18.0,
+        2508.3,
+        1373.1,
+        8.8,
+        1.9
+      ],
+      "source_pulse_peak_frame": 23
+    },
+    {
+      "name": "Observed opening gold 03",
+      "x": -276.3372,
+      "y": -255.40357,
+      "r": 0.56319,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 2.41368,
+      "source_frame": 30,
+      "source_point": [
+        269.5566037735849,
+        74.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          67.64
+        ],
+        [
+          24,
+          95.0
+        ],
+        [
+          30,
+          80.77
+        ],
+        [
+          45,
+          20.05
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          101.36
+        ],
+        [
+          24,
+          104.0
+        ],
+        [
+          30,
+          102.63
+        ],
+        [
+          45,
+          96.78
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 55.467,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        609.1,
+        752.8,
+        88.1,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 24
+    },
+    {
+      "name": "Observed opening gold 04",
+      "x": -218.87407,
+      "y": -225.61314,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        344.0,
+        105.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          59.09
+        ],
+        [
+          6,
+          48.87
+        ],
+        [
+          15,
+          95.0
+        ],
+        [
+          17,
+          95.0
+        ],
+        [
+          30,
+          23.19
+        ],
+        [
+          44,
+          12.0
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          60,
+          34.08
+        ],
+        [
+          64,
+          79.7
+        ],
+        [
+          75,
+          46.56
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          100.54
+        ],
+        [
+          6,
+          99.55
+        ],
+        [
+          15,
+          104.0
+        ],
+        [
+          17,
+          104.0
+        ],
+        [
+          30,
+          97.08
+        ],
+        [
+          44,
+          96.0
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          60,
+          98.13
+        ],
+        [
+          64,
+          102.53
+        ],
+        [
+          75,
+          99.33
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 2.713,
+      "brightness_samples_0_15_30_45_60_90": [
+        523.7,
+        990.6,
+        124.5,
+        0.0,
+        245.5,
+        0.0
+      ],
+      "source_pulse_peak_frame": 17
+    },
+    {
+      "name": "Observed opening gold 05",
+      "x": -185.8306,
+      "y": -247.28759,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        382.5,
+        74.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          13.27
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          24.04
+        ],
+        [
+          40,
+          95.0
+        ],
+        [
+          45,
+          78.06
+        ],
+        [
+          60,
+          29.18
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.12
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          97.16
+        ],
+        [
+          40,
+          104.0
+        ],
+        [
+          45,
+          102.37
+        ],
+        [
+          60,
+          97.66
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 1.199,
+      "brightness_samples_0_15_30_45_60_90": [
+        16.5,
+        0.0,
+        157.1,
+        862.0,
+        224.1,
+        0.0
+      ],
+      "source_pulse_peak_frame": 40
+    },
+    {
+      "name": "Observed opening gold 06",
+      "x": -122.08959,
+      "y": -208.09845,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 5.63192,
+      "source_frame": 30,
+      "source_point": [
+        465.7584269662921,
+        115.93820224719101
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.6
+        ],
+        [
+          15,
+          90.17
+        ],
+        [
+          17,
+          95.0
+        ],
+        [
+          30,
+          81.56
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          54,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          43.56
+        ],
+        [
+          87,
+          70.77
+        ],
+        [
+          90,
+          57.1
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.06
+        ],
+        [
+          15,
+          103.53
+        ],
+        [
+          17,
+          104.0
+        ],
+        [
+          30,
+          102.7
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          54,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          99.04
+        ],
+        [
+          87,
+          101.66
+        ],
+        [
+          90,
+          100.35
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 56.824,
+      "brightness_samples_0_15_30_45_60_90": [
+        9.9,
+        1294.6,
+        1152.1,
+        0.0,
+        0.0,
+        747.0
+      ],
+      "source_pulse_peak_frame": 17
+    },
+    {
+      "name": "Observed opening gold 07",
+      "x": -44.82763,
+      "y": -202.73581,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        562.0,
+        114.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          14.02
+        ],
+        [
+          15,
+          36.14
+        ],
+        [
+          23,
+          95.0
+        ],
+        [
+          30,
+          22.32
+        ],
+        [
+          43,
+          12.66
+        ],
+        [
+          45,
+          14.24
+        ],
+        [
+          49,
+          30.71
+        ],
+        [
+          60,
+          12.6
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.19
+        ],
+        [
+          15,
+          98.33
+        ],
+        [
+          23,
+          104.0
+        ],
+        [
+          30,
+          97.0
+        ],
+        [
+          43,
+          96.06
+        ],
+        [
+          45,
+          96.22
+        ],
+        [
+          49,
+          97.8
+        ],
+        [
+          60,
+          96.06
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 51.033,
+      "brightness_samples_0_15_30_45_60_90": [
+        2.5,
+        29.7,
+        12.7,
+        2.8,
+        0.7,
+        0.0
+      ],
+      "source_pulse_peak_frame": 23
+    },
+    {
+      "name": "Observed opening gold 08",
+      "x": 1.41051,
+      "y": -155.35634,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        624.5,
+        167.5204081632653
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.02
+        ],
+        [
+          30,
+          84.84
+        ],
+        [
+          32,
+          95.0
+        ],
+        [
+          36,
+          84.66
+        ],
+        [
+          40,
+          95.0
+        ],
+        [
+          45,
+          27.77
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          65,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          77.29
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          103.02
+        ],
+        [
+          32,
+          104.0
+        ],
+        [
+          36,
+          103.0
+        ],
+        [
+          40,
+          104.0
+        ],
+        [
+          45,
+          97.52
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          65,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          102.29
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 80.513,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.2,
+        756.7,
+        163.8,
+        0.0,
+        678.3
+      ],
+      "source_pulse_peak_frame": 32
+    },
+    {
+      "name": "Observed opening gold 10",
+      "x": 103.70315,
+      "y": -197.09064,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 6.43648,
+      "source_frame": 30,
+      "source_point": [
+        746.5,
+        104.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          28.03
+        ],
+        [
+          25,
+          94.38
+        ],
+        [
+          30,
+          83.41
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          54,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          56.74
+        ],
+        [
+          87,
+          95.0
+        ],
+        [
+          90,
+          84.06
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          97.55
+        ],
+        [
+          25,
+          103.94
+        ],
+        [
+          30,
+          102.88
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          54,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          100.31
+        ],
+        [
+          87,
+          104.0
+        ],
+        [
+          90,
+          102.95
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 1.682,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        210.9,
+        939.6,
+        0.0,
+        0.0,
+        948.1
+      ],
+      "source_pulse_peak_frame": 25
+    },
+    {
+      "name": "Observed opening gold 11",
+      "x": 162.8753,
+      "y": -176.84042,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        822.0,
+        123.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          81.19
+        ],
+        [
+          18,
+          95.0
+        ],
+        [
+          30,
+          30.15
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          49,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          73,
+          46.63
+        ],
+        [
+          75,
+          36.7
+        ],
+        [
+          90,
+          23.35
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          102.67
+        ],
+        [
+          18,
+          104.0
+        ],
+        [
+          30,
+          97.75
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          49,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          73,
+          99.34
+        ],
+        [
+          75,
+          98.38
+        ],
+        [
+          90,
+          97.09
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 43.824,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        1012.0,
+        265.5,
+        0.0,
+        0.0,
+        165.9
+      ],
+      "source_pulse_peak_frame": 18
+    },
+    {
+      "name": "Observed opening gold 12",
+      "x": 222.2293,
+      "y": -127.0896,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 5.63192,
+      "source_frame": 30,
+      "source_point": [
+        901.0,
+        178.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          24,
+          51.16
+        ],
+        [
+          26,
+          38.84
+        ],
+        [
+          30,
+          45.44
+        ],
+        [
+          42,
+          95.0
+        ],
+        [
+          45,
+          77.69
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          18.08
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          24,
+          99.77
+        ],
+        [
+          26,
+          98.59
+        ],
+        [
+          30,
+          99.22
+        ],
+        [
+          42,
+          104.0
+        ],
+        [
+          45,
+          102.33
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.59
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 48.497,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.0,
+        133.6,
+        262.4,
+        0.0,
+        24.3
+      ],
+      "source_pulse_peak_frame": 42
+    },
+    {
+      "name": "Observed opening gold 14",
+      "x": 374.54056,
+      "y": -72.63811,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        1095.5980392156862,
+        228.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.01
+        ],
+        [
+          30,
+          90.13
+        ],
+        [
+          31,
+          95.0
+        ],
+        [
+          36,
+          78.3
+        ],
+        [
+          41,
+          95.0
+        ],
+        [
+          45,
+          75.81
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          103.53
+        ],
+        [
+          31,
+          104.0
+        ],
+        [
+          36,
+          102.39
+        ],
+        [
+          41,
+          104.0
+        ],
+        [
+          45,
+          102.15
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 166.717,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.1,
+        900.6,
+        735.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 41
+    },
+    {
+      "name": "Observed opening gold 15",
+      "x": 424.78121,
+      "y": -84.28866,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        1156.5,
+        208.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.17
+        ],
+        [
+          23,
+          95.0
+        ],
+        [
+          27,
+          83.27
+        ],
+        [
+          30,
+          94.64
+        ],
+        [
+          31,
+          95.0
+        ],
+        [
+          45,
+          12.17
+        ],
+        [
+          55,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          71,
+          23.04
+        ],
+        [
+          75,
+          18.4
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.02
+        ],
+        [
+          23,
+          104.0
+        ],
+        [
+          27,
+          102.87
+        ],
+        [
+          30,
+          103.97
+        ],
+        [
+          31,
+          104.0
+        ],
+        [
+          45,
+          96.02
+        ],
+        [
+          55,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          71,
+          97.06
+        ],
+        [
+          75,
+          96.62
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 181.763,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        1.6,
+        790.8,
+        1.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 23
+    },
+    {
+      "name": "Observed opening gold 16",
+      "x": 412.62175,
+      "y": -20.75594,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        1148.5,
+        288.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.01
+        ],
+        [
+          30,
+          40.31
+        ],
+        [
+          41,
+          95.0
+        ],
+        [
+          45,
+          54.22
+        ],
+        [
+          53,
+          12.82
+        ],
+        [
+          60,
+          18.81
+        ],
+        [
+          73,
+          59.27
+        ],
+        [
+          75,
+          50.92
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          98.73
+        ],
+        [
+          41,
+          104.0
+        ],
+        [
+          45,
+          100.07
+        ],
+        [
+          53,
+          96.08
+        ],
+        [
+          60,
+          96.66
+        ],
+        [
+          73,
+          100.56
+        ],
+        [
+          75,
+          99.75
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 117.094,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.2,
+        343.0,
+        511.6,
+        82.6,
+        0.0
+      ],
+      "source_pulse_peak_frame": 41
+    },
+    {
+      "name": "Observed opening gold 17",
+      "x": 316.90787,
+      "y": -20.85709,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        1030.0,
+        299.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.06
+        ],
+        [
+          9,
+          95.0
+        ],
+        [
+          15,
+          50.12
+        ],
+        [
+          30,
+          12.88
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          15.43
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.01
+        ],
+        [
+          9,
+          104.0
+        ],
+        [
+          15,
+          99.67
+        ],
+        [
+          30,
+          96.08
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.33
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 133.678,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.2,
+        145.9,
+        3.4,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 9
+    },
+    {
+      "name": "Observed opening gold 19",
+      "x": 165.76735,
+      "y": 43.13742,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        850.0,
+        395.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          95.0
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          25,
+          12.0
+        ],
+        [
+          30,
+          12.0
+        ],
+        [
+          45,
+          13.54
+        ],
+        [
+          54,
+          61.92
+        ],
+        [
+          60,
+          41.34
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          104.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          25,
+          96.0
+        ],
+        [
+          30,
+          96.0
+        ],
+        [
+          45,
+          96.15
+        ],
+        [
+          54,
+          100.81
+        ],
+        [
+          60,
+          98.83
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 1.717,
+      "brightness_samples_0_15_30_45_60_90": [
+        772.3,
+        0.0,
+        0.0,
+        8.3,
+        158.7,
+        0.0
+      ],
+      "source_pulse_peak_frame": 0
+    },
+    {
+      "name": "Observed opening gold 20",
+      "x": 95.39818,
+      "y": 39.65448,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        762.5,
+        398.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          95.0
+        ],
+        [
+          32,
+          95.0
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          32,
+          104.0
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 70.313,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.0,
+        146.9,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 32
+    },
+    {
+      "name": "Observed opening gold 21",
+      "x": 19.62869,
+      "y": 87.38575,
+      "r": 0.56319,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 2.41368,
+      "source_frame": 30,
+      "source_point": [
+        674.0,
+        466.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.13
+        ],
+        [
+          8,
+          95.0
+        ],
+        [
+          15,
+          63.55
+        ],
+        [
+          30,
+          30.55
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          50,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          72,
+          39.96
+        ],
+        [
+          75,
+          27.67
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.01
+        ],
+        [
+          8,
+          104.0
+        ],
+        [
+          15,
+          100.97
+        ],
+        [
+          30,
+          97.79
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          50,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          72,
+          98.69
+        ],
+        [
+          75,
+          97.51
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 19.988,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.7,
+        276.9,
+        99.6,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 8
+    },
+    {
+      "name": "Observed opening gold 23",
+      "x": -107.64687,
+      "y": 69.91418,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        514.5,
+        458.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          82.49
+        ],
+        [
+          8,
+          95.0
+        ],
+        [
+          13,
+          85.07
+        ],
+        [
+          15,
+          88.91
+        ],
+        [
+          18,
+          95.0
+        ],
+        [
+          30,
+          22.59
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          47,
+          12.0
+        ],
+        [
+          60,
+          61.44
+        ],
+        [
+          73,
+          79.51
+        ],
+        [
+          75,
+          75.91
+        ],
+        [
+          90,
+          29.37
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          102.79
+        ],
+        [
+          8,
+          104.0
+        ],
+        [
+          13,
+          103.04
+        ],
+        [
+          15,
+          103.41
+        ],
+        [
+          18,
+          104.0
+        ],
+        [
+          30,
+          97.02
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          47,
+          96.0
+        ],
+        [
+          60,
+          100.76
+        ],
+        [
+          73,
+          102.51
+        ],
+        [
+          75,
+          102.16
+        ],
+        [
+          90,
+          97.67
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 1.513,
+      "brightness_samples_0_15_30_45_60_90": [
+        2127.6,
+        2321.4,
+        319.7,
+        0.1,
+        1492.2,
+        524.4
+      ],
+      "source_pulse_peak_frame": 18
+    },
+    {
+      "name": "Observed opening gold 24",
+      "x": -207.07025,
+      "y": 92.21334,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        393.89449541284404,
+        497.14220183486236
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.12
+        ],
+        [
+          30,
+          95.0
+        ],
+        [
+          32,
+          95.0
+        ],
+        [
+          45,
+          51.85
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          65,
+          12.0
+        ],
+        [
+          75,
+          12.03
+        ],
+        [
+          90,
+          73.76
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.01
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          32,
+          104.0
+        ],
+        [
+          45,
+          99.84
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          65,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          101.95
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 62.33,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        2.8,
+        1945.7,
+        920.9,
+        0.0,
+        1427.1
+      ],
+      "source_pulse_peak_frame": 32
+    },
+    {
+      "name": "Observed opening gold 25",
+      "x": -194.62792,
+      "y": 184.89822,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        419.58641975308643,
+        610.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          14.91
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          73.53
+        ],
+        [
+          45,
+          94.43
+        ],
+        [
+          48,
+          95.0
+        ],
+        [
+          60,
+          21.21
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          13.71
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.28
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          101.93
+        ],
+        [
+          45,
+          103.94
+        ],
+        [
+          48,
+          104.0
+        ],
+        [
+          60,
+          96.89
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.16
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 94.417,
+      "brightness_samples_0_15_30_45_60_90": [
+        98.6,
+        0.0,
+        2083.1,
+        2790.6,
+        311.9,
+        57.7
+      ],
+      "source_pulse_peak_frame": 48
+    },
+    {
+      "name": "Observed opening gold 26",
+      "x": -87.16776,
+      "y": 201.86537,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        554.5,
+        619.5752688172043
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          27.8
+        ],
+        [
+          15,
+          81.78
+        ],
+        [
+          22,
+          95.0
+        ],
+        [
+          30,
+          64.34
+        ],
+        [
+          45,
+          12.1
+        ],
+        [
+          51,
+          12.0
+        ],
+        [
+          60,
+          23.76
+        ],
+        [
+          75,
+          57.4
+        ],
+        [
+          80,
+          62.04
+        ],
+        [
+          90,
+          34.5
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          97.52
+        ],
+        [
+          15,
+          102.73
+        ],
+        [
+          22,
+          104.0
+        ],
+        [
+          30,
+          101.05
+        ],
+        [
+          45,
+          96.01
+        ],
+        [
+          51,
+          96.0
+        ],
+        [
+          60,
+          97.13
+        ],
+        [
+          75,
+          100.38
+        ],
+        [
+          80,
+          100.82
+        ],
+        [
+          90,
+          98.17
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 1.888,
+      "brightness_samples_0_15_30_45_60_90": [
+        521.1,
+        2300.8,
+        1725.9,
+        3.4,
+        387.6,
+        741.8
+      ],
+      "source_pulse_peak_frame": 22
+    },
+    {
+      "name": "Observed opening gold 27",
+      "x": -94.57993,
+      "y": 225.09625,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.82736,
+      "source_frame": 30,
+      "source_point": [
+        547.9029850746268,
+        649.1567164179105
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          16.97
+        ],
+        [
+          30,
+          87.68
+        ],
+        [
+          32,
+          95.0
+        ],
+        [
+          45,
+          21.16
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          65,
+          12.0
+        ],
+        [
+          75,
+          12.01
+        ],
+        [
+          90,
+          25.05
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.48
+        ],
+        [
+          30,
+          103.29
+        ],
+        [
+          32,
+          104.0
+        ],
+        [
+          45,
+          96.88
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          65,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          97.26
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 23.478,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        47.2,
+        718.1,
+        86.9,
+        0.0,
+        123.9
+      ],
+      "source_pulse_peak_frame": 32
+    },
+    {
+      "name": "Observed opening gold 28",
+      "x": 38.00649,
+      "y": 283.3069,
+      "r": 0.56319,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 1.60912,
+      "source_frame": 30,
+      "source_point": [
+        718.5,
+        706.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          59.88
+        ],
+        [
+          19,
+          95.0
+        ],
+        [
+          30,
+          37.54
+        ],
+        [
+          45,
+          12.62
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          14.68
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          100.61
+        ],
+        [
+          19,
+          104.0
+        ],
+        [
+          30,
+          98.46
+        ],
+        [
+          45,
+          96.06
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.26
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 106.419,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        895.7,
+        477.9,
+        11.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 19
+    },
+    {
+      "name": "Observed opening gold 29",
+      "x": 229.46354,
+      "y": 188.59666,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        945.0,
+        568.0
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          42.99
+        ],
+        [
+          5,
+          30.3
+        ],
+        [
+          9,
+          44.04
+        ],
+        [
+          15,
+          33.36
+        ],
+        [
+          28,
+          14.49
+        ],
+        [
+          30,
+          17.99
+        ],
+        [
+          41,
+          31.98
+        ],
+        [
+          45,
+          25.49
+        ],
+        [
+          51,
+          17.59
+        ],
+        [
+          60,
+          58.98
+        ],
+        [
+          69,
+          95.0
+        ],
+        [
+          75,
+          75.97
+        ],
+        [
+          90,
+          12.1
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          98.99
+        ],
+        [
+          5,
+          97.76
+        ],
+        [
+          9,
+          99.09
+        ],
+        [
+          15,
+          98.06
+        ],
+        [
+          28,
+          96.24
+        ],
+        [
+          30,
+          96.58
+        ],
+        [
+          41,
+          97.93
+        ],
+        [
+          45,
+          97.3
+        ],
+        [
+          51,
+          96.54
+        ],
+        [
+          60,
+          100.53
+        ],
+        [
+          69,
+          104.0
+        ],
+        [
+          75,
+          102.17
+        ],
+        [
+          90,
+          96.01
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 3.175,
+      "brightness_samples_0_15_30_45_60_90": [
+        477.4,
+        329.1,
+        92.2,
+        207.9,
+        723.8,
+        1.6
+      ],
+      "source_pulse_peak_frame": 58
+    },
+    {
+      "name": "Observed opening gold 30",
+      "x": 273.50196,
+      "y": 287.53112,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        1010.5,
+        685.5869565217391
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          46.96
+        ],
+        [
+          24,
+          95.0
+        ],
+        [
+          30,
+          95.0
+        ],
+        [
+          45,
+          32.98
+        ],
+        [
+          60,
+          12.1
+        ],
+        [
+          75,
+          19.97
+        ],
+        [
+          90,
+          12.06
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          99.37
+        ],
+        [
+          24,
+          104.0
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          45,
+          98.02
+        ],
+        [
+          60,
+          96.01
+        ],
+        [
+          75,
+          96.77
+        ],
+        [
+          90,
+          96.01
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 90.845,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        964.9,
+        2316.3,
+        579.0,
+        2.8,
+        1.6
+      ],
+      "source_pulse_peak_frame": 24
+    },
+    {
+      "name": "Observed opening gold 31",
+      "x": 257.52675,
+      "y": 255.60686,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        987.1796116504854,
+        647.8398058252427
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.99
+        ],
+        [
+          15,
+          95.0
+        ],
+        [
+          17,
+          95.0
+        ],
+        [
+          30,
+          64.27
+        ],
+        [
+          45,
+          12.01
+        ],
+        [
+          53,
+          12.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          72,
+          25.97
+        ],
+        [
+          75,
+          18.56
+        ],
+        [
+          90,
+          12.02
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.1
+        ],
+        [
+          15,
+          104.0
+        ],
+        [
+          17,
+          104.0
+        ],
+        [
+          30,
+          101.04
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          53,
+          96.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          72,
+          97.35
+        ],
+        [
+          75,
+          96.63
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 58.709,
+      "brightness_samples_0_15_30_45_60_90": [
+        30.3,
+        2558.9,
+        1594.4,
+        0.2,
+        0.0,
+        0.7
+      ],
+      "source_pulse_peak_frame": 17
+    },
+    {
+      "name": "Observed opening gold 32",
+      "x": 300.34252,
+      "y": 213.8931,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 3.21824,
+      "source_frame": 30,
+      "source_point": [
+        1035.5526315789473,
+        591.4473684210526
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          65.24
+        ],
+        [
+          44,
+          95.0
+        ],
+        [
+          45,
+          95.0
+        ],
+        [
+          60,
+          26.34
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          101.13
+        ],
+        [
+          44,
+          104.0
+        ],
+        [
+          45,
+          104.0
+        ],
+        [
+          60,
+          97.38
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 53.58,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.0,
+        805.1,
+        1263.8,
+        216.9,
+        0.0
+      ],
+      "source_pulse_peak_frame": 44
+    },
+    {
+      "name": "Observed opening gold 34",
+      "x": -432.42891,
+      "y": 6.86295,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        105.4375,
+        416.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.0
+        ],
+        [
+          15,
+          12.02
+        ],
+        [
+          28,
+          95.0
+        ],
+        [
+          30,
+          95.0
+        ],
+        [
+          37,
+          20.91
+        ],
+        [
+          44,
+          78.74
+        ],
+        [
+          45,
+          76.71
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          28,
+          104.0
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          37,
+          96.86
+        ],
+        [
+          44,
+          102.43
+        ],
+        [
+          45,
+          102.24
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 100.704,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.0,
+        0.0,
+        258.2,
+        174.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 28
+    },
+    {
+      "name": "Observed opening gold 35",
+      "x": -404.40902,
+      "y": -87.55906,
+      "r": 0.7241,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        129.64285714285714,
+        296.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          14.86
+        ],
+        [
+          15,
+          13.81
+        ],
+        [
+          28,
+          89.4
+        ],
+        [
+          30,
+          84.85
+        ],
+        [
+          35,
+          64.48
+        ],
+        [
+          44,
+          95.0
+        ],
+        [
+          45,
+          95.0
+        ],
+        [
+          60,
+          12.0
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.28
+        ],
+        [
+          15,
+          96.17
+        ],
+        [
+          28,
+          103.46
+        ],
+        [
+          30,
+          103.02
+        ],
+        [
+          35,
+          101.06
+        ],
+        [
+          44,
+          104.0
+        ],
+        [
+          45,
+          104.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 43.05,
+      "brightness_samples_0_15_30_45_60_90": [
+        36.4,
+        23.0,
+        925.2,
+        1180.6,
+        0.0,
+        0.0
+      ],
+      "source_pulse_peak_frame": 44
+    },
+    {
+      "name": "Observed opening gold 36",
+      "x": -287.50764,
+      "y": -134.73302,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        269.1238532110092,
+        225.12385321100916
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          18.45
+        ],
+        [
+          15,
+          12.0
+        ],
+        [
+          30,
+          95.0
+        ],
+        [
+          32,
+          95.0
+        ],
+        [
+          43,
+          53.29
+        ],
+        [
+          45,
+          58.49
+        ],
+        [
+          48,
+          74.28
+        ],
+        [
+          60,
+          12.04
+        ],
+        [
+          75,
+          12.0
+        ],
+        [
+          90,
+          12.0
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.62
+        ],
+        [
+          15,
+          96.0
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          32,
+          104.0
+        ],
+        [
+          43,
+          99.98
+        ],
+        [
+          45,
+          100.48
+        ],
+        [
+          48,
+          102.0
+        ],
+        [
+          60,
+          96.0
+        ],
+        [
+          75,
+          96.0
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "replace_matching_v06_gold_point",
+      "nearest_v06_gold_distance": 2.033,
+      "brightness_samples_0_15_30_45_60_90": [
+        122.3,
+        0.0,
+        1586.7,
+        881.5,
+        0.7,
+        0.0
+      ],
+      "source_pulse_peak_frame": 32
+    },
+    {
+      "name": "Observed opening gold 37",
+      "x": -261.91097,
+      "y": -2.07989,
+      "r": 0.7241,
+      "kind": "cross4",
+      "ray_points": 4,
+      "ray_radius": 4.0228,
+      "source_frame": 30,
+      "source_point": [
+        315.537037037037,
+        386.5
+      ],
+      "color": [
+        0.78,
+        0.65,
+        0.44,
+        1
+      ],
+      "opacity_frame_keys": [
+        [
+          0,
+          12.01
+        ],
+        [
+          10,
+          95.0
+        ],
+        [
+          15,
+          77.93
+        ],
+        [
+          20,
+          60.68
+        ],
+        [
+          26,
+          81.51
+        ],
+        [
+          30,
+          65.14
+        ],
+        [
+          45,
+          12.0
+        ],
+        [
+          47,
+          12.0
+        ],
+        [
+          60,
+          15.68
+        ],
+        [
+          63,
+          26.66
+        ],
+        [
+          75,
+          15.23
+        ],
+        [
+          90,
+          12.01
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.0
+        ],
+        [
+          10,
+          104.0
+        ],
+        [
+          15,
+          102.35
+        ],
+        [
+          20,
+          100.69
+        ],
+        [
+          26,
+          102.7
+        ],
+        [
+          30,
+          101.12
+        ],
+        [
+          45,
+          96.0
+        ],
+        [
+          47,
+          96.0
+        ],
+        [
+          60,
+          96.35
+        ],
+        [
+          63,
+          97.41
+        ],
+        [
+          75,
+          96.31
+        ],
+        [
+          90,
+          96.0
+        ]
+      ],
+      "glow_radius": 1.77,
+      "recommended_mode": "add_source_observed_point",
+      "nearest_v06_gold_distance": 37.043,
+      "brightness_samples_0_15_30_45_60_90": [
+        0.1,
+        637.7,
+        514.0,
+        0.0,
+        35.6,
+        0.1
+      ],
+      "source_pulse_peak_frame": 10
+    }
+  ],
+  "white_glints": [
+    {
+      "name": "White star-cluster reinforcement 01",
+      "x": -112.63357,
+      "y": -31.95081,
+      "core_radius": 2.09186,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 6.43648,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        497.0186686533152,
+        332.95004163197336
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          90.91
+        ],
+        [
+          30,
+          93.21
+        ],
+        [
+          45,
+          94.11
+        ],
+        [
+          60,
+          96.54
+        ],
+        [
+          75,
+          95.22
+        ],
+        [
+          90,
+          94.21
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.97
+        ],
+        [
+          15,
+          102.98
+        ],
+        [
+          30,
+          103.42
+        ],
+        [
+          45,
+          103.59
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          103.8
+        ],
+        [
+          90,
+          103.61
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        28561.7,
+        33432.4,
+        35515.0,
+        36336.7,
+        38538.2,
+        36421.7
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 02",
+      "x": -246.68005,
+      "y": -244.72648,
+      "core_radius": 1.85049,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        307.45587707331083,
+        84.42543261291017
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          93.74
+        ],
+        [
+          15,
+          94.15
+        ],
+        [
+          30,
+          94.07
+        ],
+        [
+          45,
+          93.78
+        ],
+        [
+          60,
+          93.41
+        ],
+        [
+          75,
+          94.51
+        ],
+        [
+          90,
+          94.91
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.73
+        ],
+        [
+          15,
+          103.81
+        ],
+        [
+          30,
+          103.79
+        ],
+        [
+          45,
+          103.74
+        ],
+        [
+          60,
+          103.66
+        ],
+        [
+          75,
+          103.88
+        ],
+        [
+          90,
+          103.96
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        22661.3,
+        22895.8,
+        22849.9,
+        22685.0,
+        22472.0,
+        23327.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 03",
+      "x": -374.91331,
+      "y": -216.14997,
+      "core_radius": 1.44821,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 4.0228,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        151.88209050350542,
+        134.036859995751
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          92.79
+        ],
+        [
+          15,
+          93.96
+        ],
+        [
+          30,
+          93.75
+        ],
+        [
+          45,
+          93.3
+        ],
+        [
+          60,
+          93.86
+        ],
+        [
+          75,
+          93.78
+        ],
+        [
+          90,
+          96.24
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.36
+        ],
+        [
+          15,
+          103.59
+        ],
+        [
+          30,
+          103.55
+        ],
+        [
+          45,
+          103.46
+        ],
+        [
+          60,
+          103.57
+        ],
+        [
+          75,
+          103.55
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        15395.3,
+        15859.9,
+        15774.8,
+        15595.1,
+        15816.8,
+        16764.3
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 04",
+      "x": -343.64881,
+      "y": -201.73523,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        192.18609742747674,
+        148.4108739281153
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          93.93
+        ],
+        [
+          15,
+          93.29
+        ],
+        [
+          30,
+          94.06
+        ],
+        [
+          45,
+          92.8
+        ],
+        [
+          60,
+          93.9
+        ],
+        [
+          75,
+          94.47
+        ],
+        [
+          90,
+          97.86
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.71
+        ],
+        [
+          15,
+          103.59
+        ],
+        [
+          30,
+          103.74
+        ],
+        [
+          45,
+          103.5
+        ],
+        [
+          60,
+          103.71
+        ],
+        [
+          75,
+          103.82
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        10768.3,
+        10595.5,
+        10804.8,
+        10464.5,
+        10760.9,
+        11829.4
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 05",
+      "x": -371.41624,
+      "y": 38.90327,
+      "core_radius": 1.60912,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        184.524798675397,
+        449.39120945284867
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          94.0
+        ],
+        [
+          15,
+          93.62
+        ],
+        [
+          30,
+          95.91
+        ],
+        [
+          45,
+          94.15
+        ],
+        [
+          60,
+          93.79
+        ],
+        [
+          75,
+          93.73
+        ],
+        [
+          90,
+          93.79
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.61
+        ],
+        [
+          15,
+          103.54
+        ],
+        [
+          30,
+          103.98
+        ],
+        [
+          45,
+          103.64
+        ],
+        [
+          60,
+          103.58
+        ],
+        [
+          75,
+          103.56
+        ],
+        [
+          90,
+          103.58
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        21714.3,
+        21505.8,
+        22753.7,
+        21795.2,
+        21602.0,
+        21602.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 06",
+      "x": -237.6749,
+      "y": 108.4085,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        357.80536818437326,
+        520.5883923552558
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          88.0
+        ],
+        [
+          30,
+          93.55
+        ],
+        [
+          45,
+          94.32
+        ],
+        [
+          60,
+          94.26
+        ],
+        [
+          75,
+          94.27
+        ],
+        [
+          90,
+          94.1
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.05
+        ],
+        [
+          15,
+          102.44
+        ],
+        [
+          30,
+          103.66
+        ],
+        [
+          45,
+          103.81
+        ],
+        [
+          60,
+          103.8
+        ],
+        [
+          75,
+          103.8
+        ],
+        [
+          90,
+          103.77
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        92.0,
+        11091.1,
+        13192.9,
+        13451.2,
+        13431.9,
+        13378.7
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 07",
+      "x": -47.79037,
+      "y": 124.83444,
+      "core_radius": 1.44821,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        594.6959271829683,
+        519.8437210737427
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          89.54
+        ],
+        [
+          30,
+          92.59
+        ],
+        [
+          45,
+          94.0
+        ],
+        [
+          60,
+          95.4
+        ],
+        [
+          75,
+          95.95
+        ],
+        [
+          90,
+          96.54
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          99.45
+        ],
+        [
+          15,
+          102.73
+        ],
+        [
+          30,
+          103.31
+        ],
+        [
+          45,
+          103.57
+        ],
+        [
+          60,
+          103.84
+        ],
+        [
+          75,
+          103.94
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        5918.6,
+        11551.4,
+        12542.3,
+        13000.7,
+        13456.0,
+        13826.8
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 08",
+      "x": -23.72164,
+      "y": 252.01322,
+      "core_radius": 1.77003,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        638.6098886648549,
+        674.6125186289121
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          91.73
+        ],
+        [
+          30,
+          94.61
+        ],
+        [
+          45,
+          94.59
+        ],
+        [
+          60,
+          94.13
+        ],
+        [
+          75,
+          94.04
+        ],
+        [
+          90,
+          94.03
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          102.48
+        ],
+        [
+          15,
+          103.44
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          45,
+          104.0
+        ],
+        [
+          60,
+          103.91
+        ],
+        [
+          75,
+          103.89
+        ],
+        [
+          90,
+          103.89
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        14808.1,
+        17000.3,
+        18298.1,
+        18291.1,
+        18082.6,
+        18037.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 09",
+      "x": 223.8581,
+      "y": -151.64913,
+      "core_radius": 1.44821,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        900.2900043522415,
+        147.41578412882635
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          89.75
+        ],
+        [
+          30,
+          95.02
+        ],
+        [
+          45,
+          96.63
+        ],
+        [
+          60,
+          96.03
+        ],
+        [
+          75,
+          93.22
+        ],
+        [
+          90,
+          93.78
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.18
+        ],
+        [
+          15,
+          102.67
+        ],
+        [
+          30,
+          103.65
+        ],
+        [
+          45,
+          103.96
+        ],
+        [
+          60,
+          103.84
+        ],
+        [
+          75,
+          103.32
+        ],
+        [
+          90,
+          103.42
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        296.2,
+        10809.5,
+        12399.9,
+        12889.5,
+        12705.5,
+        12027.6
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 10",
+      "x": 230.60959,
+      "y": 273.4656,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        955.8400698267759,
+        672.9360816436149
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          91.87
+        ],
+        [
+          15,
+          94.21
+        ],
+        [
+          30,
+          93.65
+        ],
+        [
+          45,
+          93.47
+        ],
+        [
+          60,
+          94.57
+        ],
+        [
+          75,
+          93.91
+        ],
+        [
+          90,
+          93.53
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.48
+        ],
+        [
+          15,
+          103.94
+        ],
+        [
+          30,
+          103.83
+        ],
+        [
+          45,
+          103.79
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          103.88
+        ],
+        [
+          90,
+          103.8
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        11909.8,
+        12643.1,
+        12469.3,
+        12413.3,
+        12758.2,
+        12430.0
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 11",
+      "x": -339.49546,
+      "y": -64.66484,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        212.54393816110658,
+        317.6357811228641
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          92.33
+        ],
+        [
+          15,
+          92.69
+        ],
+        [
+          30,
+          94.45
+        ],
+        [
+          45,
+          93.2
+        ],
+        [
+          60,
+          100.0
+        ],
+        [
+          75,
+          93.61
+        ],
+        [
+          90,
+          93.61
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.03
+        ],
+        [
+          15,
+          101.08
+        ],
+        [
+          30,
+          101.31
+        ],
+        [
+          45,
+          101.15
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          101.2
+        ],
+        [
+          90,
+          101.2
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        15686.7,
+        15832.8,
+        16554.0,
+        16040.3,
+        27681.8,
+        16209.6
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 12",
+      "x": -138.47506,
+      "y": 66.01704,
+      "core_radius": 1.36775,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 2.41368,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        475.9036873968079,
+        457.09778022381215
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          91.17
+        ],
+        [
+          30,
+          94.5
+        ],
+        [
+          45,
+          93.98
+        ],
+        [
+          60,
+          94.11
+        ],
+        [
+          75,
+          93.62
+        ],
+        [
+          90,
+          94.29
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.46
+        ],
+        [
+          15,
+          103.27
+        ],
+        [
+          30,
+          103.92
+        ],
+        [
+          45,
+          103.82
+        ],
+        [
+          60,
+          103.85
+        ],
+        [
+          75,
+          103.75
+        ],
+        [
+          90,
+          103.88
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        6307.0,
+        8403.6,
+        9155.0,
+        9038.9,
+        9066.2,
+        9107.0
+      ]
+    }
+  ]
+}

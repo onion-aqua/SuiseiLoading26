@@ -1,0 +1,1349 @@
+{
+  "reference": {
+    "fixed_cohort_ids": [
+      9,
+      11,
+      12,
+      13,
+      15,
+      21,
+      86,
+      87,
+      89,
+      109,
+      124,
+      140
+    ],
+    "peak": {
+      "frame": 2375,
+      "time": 79.16666666666667,
+      "cohort_points": 12,
+      "median_radial_scale_vs_f2394": 1.022365,
+      "median_rotation_vs_f2394_deg": 2.400008
+    },
+    "frame_keys": [
+      {
+        "frame": 2312,
+        "time": 77.06666666666666,
+        "cohort_points": 5,
+        "median_radial_scale_vs_f2394": 0.378566,
+        "median_rotation_vs_f2394_deg": 13.388624
+      },
+      {
+        "frame": 2313,
+        "time": 77.1,
+        "cohort_points": 5,
+        "median_radial_scale_vs_f2394": 0.395807,
+        "median_rotation_vs_f2394_deg": 13.433036
+      },
+      {
+        "frame": 2314,
+        "time": 77.13333333333334,
+        "cohort_points": 5,
+        "median_radial_scale_vs_f2394": 0.395808,
+        "median_rotation_vs_f2394_deg": 13.433361
+      },
+      {
+        "frame": 2315,
+        "time": 77.16666666666667,
+        "cohort_points": 5,
+        "median_radial_scale_vs_f2394": 0.439414,
+        "median_rotation_vs_f2394_deg": 13.313582
+      },
+      {
+        "frame": 2316,
+        "time": 77.2,
+        "cohort_points": 6,
+        "median_radial_scale_vs_f2394": 0.499464,
+        "median_rotation_vs_f2394_deg": 13.842775
+      },
+      {
+        "frame": 2317,
+        "time": 77.23333333333333,
+        "cohort_points": 6,
+        "median_radial_scale_vs_f2394": 0.499466,
+        "median_rotation_vs_f2394_deg": 13.842687
+      },
+      {
+        "frame": 2318,
+        "time": 77.26666666666667,
+        "cohort_points": 7,
+        "median_radial_scale_vs_f2394": 0.535263,
+        "median_rotation_vs_f2394_deg": 14.382199
+      },
+      {
+        "frame": 2319,
+        "time": 77.3,
+        "cohort_points": 7,
+        "median_radial_scale_vs_f2394": 0.535265,
+        "median_rotation_vs_f2394_deg": 14.382457
+      },
+      {
+        "frame": 2320,
+        "time": 77.33333333333333,
+        "cohort_points": 8,
+        "median_radial_scale_vs_f2394": 0.606187,
+        "median_rotation_vs_f2394_deg": 13.573398
+      },
+      {
+        "frame": 2321,
+        "time": 77.36666666666666,
+        "cohort_points": 10,
+        "median_radial_scale_vs_f2394": 0.664852,
+        "median_rotation_vs_f2394_deg": 12.791783
+      },
+      {
+        "frame": 2322,
+        "time": 77.4,
+        "cohort_points": 10,
+        "median_radial_scale_vs_f2394": 0.664909,
+        "median_rotation_vs_f2394_deg": 12.781028
+      },
+      {
+        "frame": 2323,
+        "time": 77.43333333333334,
+        "cohort_points": 10,
+        "median_radial_scale_vs_f2394": 0.681354,
+        "median_rotation_vs_f2394_deg": 12.427529
+      },
+      {
+        "frame": 2324,
+        "time": 77.46666666666667,
+        "cohort_points": 10,
+        "median_radial_scale_vs_f2394": 0.68136,
+        "median_rotation_vs_f2394_deg": 12.414603
+      },
+      {
+        "frame": 2325,
+        "time": 77.5,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.70452,
+        "median_rotation_vs_f2394_deg": 11.650641
+      },
+      {
+        "frame": 2326,
+        "time": 77.53333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.747699,
+        "median_rotation_vs_f2394_deg": 10.996747
+      },
+      {
+        "frame": 2327,
+        "time": 77.56666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.747699,
+        "median_rotation_vs_f2394_deg": 10.996724
+      },
+      {
+        "frame": 2328,
+        "time": 77.6,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.767017,
+        "median_rotation_vs_f2394_deg": 10.72513
+      },
+      {
+        "frame": 2329,
+        "time": 77.63333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.767017,
+        "median_rotation_vs_f2394_deg": 10.725101
+      },
+      {
+        "frame": 2330,
+        "time": 77.66666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.802303,
+        "median_rotation_vs_f2394_deg": 10.193893
+      },
+      {
+        "frame": 2331,
+        "time": 77.7,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.830968,
+        "median_rotation_vs_f2394_deg": 9.710057
+      },
+      {
+        "frame": 2332,
+        "time": 77.73333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.830969,
+        "median_rotation_vs_f2394_deg": 9.710057
+      },
+      {
+        "frame": 2333,
+        "time": 77.76666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.842951,
+        "median_rotation_vs_f2394_deg": 9.47297
+      },
+      {
+        "frame": 2334,
+        "time": 77.8,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.842955,
+        "median_rotation_vs_f2394_deg": 9.472939
+      },
+      {
+        "frame": 2335,
+        "time": 77.83333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.865349,
+        "median_rotation_vs_f2394_deg": 9.045212
+      },
+      {
+        "frame": 2336,
+        "time": 77.86666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.884756,
+        "median_rotation_vs_f2394_deg": 8.600306
+      },
+      {
+        "frame": 2337,
+        "time": 77.9,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.884756,
+        "median_rotation_vs_f2394_deg": 8.600403
+      },
+      {
+        "frame": 2338,
+        "time": 77.93333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.894,
+        "median_rotation_vs_f2394_deg": 8.40767
+      },
+      {
+        "frame": 2339,
+        "time": 77.96666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.894004,
+        "median_rotation_vs_f2394_deg": 8.407827
+      },
+      {
+        "frame": 2340,
+        "time": 78.0,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.915477,
+        "median_rotation_vs_f2394_deg": 7.944239
+      },
+      {
+        "frame": 2341,
+        "time": 78.03333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.938406,
+        "median_rotation_vs_f2394_deg": 7.595889
+      },
+      {
+        "frame": 2342,
+        "time": 78.06666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.938375,
+        "median_rotation_vs_f2394_deg": 7.595668
+      },
+      {
+        "frame": 2343,
+        "time": 78.1,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.945747,
+        "median_rotation_vs_f2394_deg": 7.389698
+      },
+      {
+        "frame": 2344,
+        "time": 78.13333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.945747,
+        "median_rotation_vs_f2394_deg": 7.390021
+      },
+      {
+        "frame": 2345,
+        "time": 78.16666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.957442,
+        "median_rotation_vs_f2394_deg": 7.002898
+      },
+      {
+        "frame": 2346,
+        "time": 78.2,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.967483,
+        "median_rotation_vs_f2394_deg": 6.644866
+      },
+      {
+        "frame": 2347,
+        "time": 78.23333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.967483,
+        "median_rotation_vs_f2394_deg": 6.644761
+      },
+      {
+        "frame": 2348,
+        "time": 78.26666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.971954,
+        "median_rotation_vs_f2394_deg": 6.443502
+      },
+      {
+        "frame": 2349,
+        "time": 78.3,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.971924,
+        "median_rotation_vs_f2394_deg": 6.444476
+      },
+      {
+        "frame": 2350,
+        "time": 78.33333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.980183,
+        "median_rotation_vs_f2394_deg": 6.094812
+      },
+      {
+        "frame": 2351,
+        "time": 78.36666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.987568,
+        "median_rotation_vs_f2394_deg": 5.760801
+      },
+      {
+        "frame": 2352,
+        "time": 78.4,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.987548,
+        "median_rotation_vs_f2394_deg": 5.760601
+      },
+      {
+        "frame": 2353,
+        "time": 78.43333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.992798,
+        "median_rotation_vs_f2394_deg": 5.562293
+      },
+      {
+        "frame": 2354,
+        "time": 78.46666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.992773,
+        "median_rotation_vs_f2394_deg": 5.563384
+      },
+      {
+        "frame": 2355,
+        "time": 78.5,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.004587,
+        "median_rotation_vs_f2394_deg": 5.211248
+      },
+      {
+        "frame": 2356,
+        "time": 78.53333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.008434,
+        "median_rotation_vs_f2394_deg": 4.893796
+      },
+      {
+        "frame": 2357,
+        "time": 78.56666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.00838,
+        "median_rotation_vs_f2394_deg": 4.891186
+      },
+      {
+        "frame": 2358,
+        "time": 78.6,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.010234,
+        "median_rotation_vs_f2394_deg": 4.724466
+      },
+      {
+        "frame": 2359,
+        "time": 78.63333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.010234,
+        "median_rotation_vs_f2394_deg": 4.724316
+      },
+      {
+        "frame": 2360,
+        "time": 78.66666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.013329,
+        "median_rotation_vs_f2394_deg": 4.397544
+      },
+      {
+        "frame": 2361,
+        "time": 78.7,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.015872,
+        "median_rotation_vs_f2394_deg": 4.09059
+      },
+      {
+        "frame": 2362,
+        "time": 78.73333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.015872,
+        "median_rotation_vs_f2394_deg": 4.090661
+      },
+      {
+        "frame": 2363,
+        "time": 78.76666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.017056,
+        "median_rotation_vs_f2394_deg": 3.932759
+      },
+      {
+        "frame": 2364,
+        "time": 78.8,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.017053,
+        "median_rotation_vs_f2394_deg": 3.932793
+      },
+      {
+        "frame": 2365,
+        "time": 78.83333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.018952,
+        "median_rotation_vs_f2394_deg": 3.663013
+      },
+      {
+        "frame": 2366,
+        "time": 78.86666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.020264,
+        "median_rotation_vs_f2394_deg": 3.411204
+      },
+      {
+        "frame": 2367,
+        "time": 78.9,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.020265,
+        "median_rotation_vs_f2394_deg": 3.411227
+      },
+      {
+        "frame": 2368,
+        "time": 78.93333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.020784,
+        "median_rotation_vs_f2394_deg": 3.286113
+      },
+      {
+        "frame": 2369,
+        "time": 78.96666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.020784,
+        "median_rotation_vs_f2394_deg": 3.286878
+      },
+      {
+        "frame": 2370,
+        "time": 79.0,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.021653,
+        "median_rotation_vs_f2394_deg": 3.039353
+      },
+      {
+        "frame": 2371,
+        "time": 79.03333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.02216,
+        "median_rotation_vs_f2394_deg": 2.782379
+      },
+      {
+        "frame": 2372,
+        "time": 79.06666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.022159,
+        "median_rotation_vs_f2394_deg": 2.782412
+      },
+      {
+        "frame": 2373,
+        "time": 79.1,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.022213,
+        "median_rotation_vs_f2394_deg": 2.656219
+      },
+      {
+        "frame": 2374,
+        "time": 79.13333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.022212,
+        "median_rotation_vs_f2394_deg": 2.656259
+      },
+      {
+        "frame": 2375,
+        "time": 79.16666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.022365,
+        "median_rotation_vs_f2394_deg": 2.400008
+      },
+      {
+        "frame": 2376,
+        "time": 79.2,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.022011,
+        "median_rotation_vs_f2394_deg": 2.13275
+      },
+      {
+        "frame": 2377,
+        "time": 79.23333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.02201,
+        "median_rotation_vs_f2394_deg": 2.132633
+      },
+      {
+        "frame": 2378,
+        "time": 79.26666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.021402,
+        "median_rotation_vs_f2394_deg": 2.007769
+      },
+      {
+        "frame": 2379,
+        "time": 79.3,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.021402,
+        "median_rotation_vs_f2394_deg": 2.007824
+      },
+      {
+        "frame": 2380,
+        "time": 79.33333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.020081,
+        "median_rotation_vs_f2394_deg": 1.741202
+      },
+      {
+        "frame": 2381,
+        "time": 79.36666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.018494,
+        "median_rotation_vs_f2394_deg": 1.492903
+      },
+      {
+        "frame": 2382,
+        "time": 79.4,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.018493,
+        "median_rotation_vs_f2394_deg": 1.492535
+      },
+      {
+        "frame": 2383,
+        "time": 79.43333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.01704,
+        "median_rotation_vs_f2394_deg": 1.322881
+      },
+      {
+        "frame": 2384,
+        "time": 79.46666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.017035,
+        "median_rotation_vs_f2394_deg": 1.322235
+      },
+      {
+        "frame": 2385,
+        "time": 79.5,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.013403,
+        "median_rotation_vs_f2394_deg": 1.054824
+      },
+      {
+        "frame": 2386,
+        "time": 79.53333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.010136,
+        "median_rotation_vs_f2394_deg": 0.79805
+      },
+      {
+        "frame": 2387,
+        "time": 79.56666666666666,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.010128,
+        "median_rotation_vs_f2394_deg": 0.799721
+      },
+      {
+        "frame": 2388,
+        "time": 79.6,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.008447,
+        "median_rotation_vs_f2394_deg": 0.669694
+      },
+      {
+        "frame": 2389,
+        "time": 79.63333333333334,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.008448,
+        "median_rotation_vs_f2394_deg": 0.669594
+      },
+      {
+        "frame": 2390,
+        "time": 79.66666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.005038,
+        "median_rotation_vs_f2394_deg": 0.398118
+      },
+      {
+        "frame": 2391,
+        "time": 79.7,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.001573,
+        "median_rotation_vs_f2394_deg": 0.137433
+      },
+      {
+        "frame": 2392,
+        "time": 79.73333333333333,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.001574,
+        "median_rotation_vs_f2394_deg": 0.137422
+      },
+      {
+        "frame": 2393,
+        "time": 79.76666666666667,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 0.999999,
+        "median_rotation_vs_f2394_deg": 3.2e-05
+      },
+      {
+        "frame": 2394,
+        "time": 79.8,
+        "cohort_points": 12,
+        "median_radial_scale_vs_f2394": 1.0,
+        "median_rotation_vs_f2394_deg": 0.0
+      }
+    ]
+  },
+  "v06": {
+    "fixed_cohort_ids": [
+      0,
+      1,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      24,
+      25,
+      26,
+      27,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      36,
+      38,
+      39,
+      40,
+      41,
+      44,
+      47,
+      48,
+      50,
+      52,
+      57,
+      58,
+      59,
+      61,
+      62,
+      64,
+      65,
+      67,
+      69,
+      72,
+      73,
+      74,
+      75,
+      77,
+      79,
+      80,
+      82,
+      86,
+      88,
+      91,
+      93,
+      94,
+      95,
+      96,
+      105,
+      113,
+      115,
+      125,
+      129,
+      130,
+      148,
+      154,
+      156,
+      158,
+      159,
+      162,
+      168,
+      175,
+      185,
+      188,
+      191,
+      199,
+      203,
+      204,
+      206,
+      209,
+      210,
+      211,
+      227,
+      237,
+      241,
+      248
+    ],
+    "peak": {
+      "frame": 2340,
+      "time": 78.0,
+      "cohort_points": 91,
+      "median_radial_scale_vs_f2394": 1.153123,
+      "median_rotation_vs_f2394_deg": 8.327065
+    },
+    "frame_keys": [
+      {
+        "frame": 2304,
+        "time": 76.8,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.148261,
+        "median_rotation_vs_f2394_deg": 15.961976
+      },
+      {
+        "frame": 2305,
+        "time": 76.83333333333333,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.149212,
+        "median_rotation_vs_f2394_deg": 15.70627
+      },
+      {
+        "frame": 2306,
+        "time": 76.86666666666666,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.149803,
+        "median_rotation_vs_f2394_deg": 15.465514
+      },
+      {
+        "frame": 2307,
+        "time": 76.9,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.151246,
+        "median_rotation_vs_f2394_deg": 15.223456
+      },
+      {
+        "frame": 2308,
+        "time": 76.93333333333334,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.152062,
+        "median_rotation_vs_f2394_deg": 14.977664
+      },
+      {
+        "frame": 2309,
+        "time": 76.96666666666667,
+        "cohort_points": 2,
+        "median_radial_scale_vs_f2394": 1.154037,
+        "median_rotation_vs_f2394_deg": 14.723071
+      },
+      {
+        "frame": 2310,
+        "time": 77.0,
+        "cohort_points": 3,
+        "median_radial_scale_vs_f2394": 1.152089,
+        "median_rotation_vs_f2394_deg": 15.617216
+      },
+      {
+        "frame": 2311,
+        "time": 77.03333333333333,
+        "cohort_points": 3,
+        "median_radial_scale_vs_f2394": 1.152059,
+        "median_rotation_vs_f2394_deg": 15.327167
+      },
+      {
+        "frame": 2312,
+        "time": 77.06666666666666,
+        "cohort_points": 3,
+        "median_radial_scale_vs_f2394": 1.152326,
+        "median_rotation_vs_f2394_deg": 15.036832
+      },
+      {
+        "frame": 2313,
+        "time": 77.1,
+        "cohort_points": 4,
+        "median_radial_scale_vs_f2394": 1.151805,
+        "median_rotation_vs_f2394_deg": 14.52487
+      },
+      {
+        "frame": 2314,
+        "time": 77.13333333333334,
+        "cohort_points": 7,
+        "median_radial_scale_vs_f2394": 1.152079,
+        "median_rotation_vs_f2394_deg": 14.216806
+      },
+      {
+        "frame": 2315,
+        "time": 77.16666666666667,
+        "cohort_points": 8,
+        "median_radial_scale_vs_f2394": 1.152698,
+        "median_rotation_vs_f2394_deg": 14.021559
+      },
+      {
+        "frame": 2316,
+        "time": 77.2,
+        "cohort_points": 13,
+        "median_radial_scale_vs_f2394": 0.749795,
+        "median_rotation_vs_f2394_deg": 13.569916
+      },
+      {
+        "frame": 2317,
+        "time": 77.23333333333333,
+        "cohort_points": 15,
+        "median_radial_scale_vs_f2394": 0.663976,
+        "median_rotation_vs_f2394_deg": 13.295462
+      },
+      {
+        "frame": 2318,
+        "time": 77.26666666666667,
+        "cohort_points": 16,
+        "median_radial_scale_vs_f2394": 0.682503,
+        "median_rotation_vs_f2394_deg": 13.109309
+      },
+      {
+        "frame": 2319,
+        "time": 77.3,
+        "cohort_points": 18,
+        "median_radial_scale_vs_f2394": 0.714544,
+        "median_rotation_vs_f2394_deg": 12.911775
+      },
+      {
+        "frame": 2320,
+        "time": 77.33333333333333,
+        "cohort_points": 21,
+        "median_radial_scale_vs_f2394": 0.738172,
+        "median_rotation_vs_f2394_deg": 12.749385
+      },
+      {
+        "frame": 2321,
+        "time": 77.36666666666666,
+        "cohort_points": 23,
+        "median_radial_scale_vs_f2394": 0.768934,
+        "median_rotation_vs_f2394_deg": 12.471614
+      },
+      {
+        "frame": 2322,
+        "time": 77.4,
+        "cohort_points": 69,
+        "median_radial_scale_vs_f2394": 0.779176,
+        "median_rotation_vs_f2394_deg": 12.359354
+      },
+      {
+        "frame": 2323,
+        "time": 77.43333333333334,
+        "cohort_points": 77,
+        "median_radial_scale_vs_f2394": 0.811466,
+        "median_rotation_vs_f2394_deg": 12.114043
+      },
+      {
+        "frame": 2324,
+        "time": 77.46666666666667,
+        "cohort_points": 84,
+        "median_radial_scale_vs_f2394": 0.848982,
+        "median_rotation_vs_f2394_deg": 11.815371
+      },
+      {
+        "frame": 2325,
+        "time": 77.5,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 0.884112,
+        "median_rotation_vs_f2394_deg": 11.574785
+      },
+      {
+        "frame": 2326,
+        "time": 77.53333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 0.921464,
+        "median_rotation_vs_f2394_deg": 11.376698
+      },
+      {
+        "frame": 2327,
+        "time": 77.56666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 0.958744,
+        "median_rotation_vs_f2394_deg": 11.159443
+      },
+      {
+        "frame": 2328,
+        "time": 77.6,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 0.9958,
+        "median_rotation_vs_f2394_deg": 10.941043
+      },
+      {
+        "frame": 2329,
+        "time": 77.63333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.032965,
+        "median_rotation_vs_f2394_deg": 10.73856
+      },
+      {
+        "frame": 2330,
+        "time": 77.66666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.070416,
+        "median_rotation_vs_f2394_deg": 10.523628
+      },
+      {
+        "frame": 2331,
+        "time": 77.7,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.096466,
+        "median_rotation_vs_f2394_deg": 10.301317
+      },
+      {
+        "frame": 2332,
+        "time": 77.73333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.102477,
+        "median_rotation_vs_f2394_deg": 10.08157
+      },
+      {
+        "frame": 2333,
+        "time": 77.76666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.109058,
+        "median_rotation_vs_f2394_deg": 9.855728
+      },
+      {
+        "frame": 2334,
+        "time": 77.8,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.115138,
+        "median_rotation_vs_f2394_deg": 9.637943
+      },
+      {
+        "frame": 2335,
+        "time": 77.83333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.121795,
+        "median_rotation_vs_f2394_deg": 9.419389
+      },
+      {
+        "frame": 2336,
+        "time": 77.86666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.128271,
+        "median_rotation_vs_f2394_deg": 9.199248
+      },
+      {
+        "frame": 2337,
+        "time": 77.9,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.134809,
+        "median_rotation_vs_f2394_deg": 8.97776
+      },
+      {
+        "frame": 2338,
+        "time": 77.93333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.141273,
+        "median_rotation_vs_f2394_deg": 8.760971
+      },
+      {
+        "frame": 2339,
+        "time": 77.96666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.147164,
+        "median_rotation_vs_f2394_deg": 8.540652
+      },
+      {
+        "frame": 2340,
+        "time": 78.0,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.153123,
+        "median_rotation_vs_f2394_deg": 8.327065
+      },
+      {
+        "frame": 2341,
+        "time": 78.03333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.150806,
+        "median_rotation_vs_f2394_deg": 8.124662
+      },
+      {
+        "frame": 2342,
+        "time": 78.06666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.147917,
+        "median_rotation_vs_f2394_deg": 7.925488
+      },
+      {
+        "frame": 2343,
+        "time": 78.1,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.145367,
+        "median_rotation_vs_f2394_deg": 7.724613
+      },
+      {
+        "frame": 2344,
+        "time": 78.13333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.143081,
+        "median_rotation_vs_f2394_deg": 7.519024
+      },
+      {
+        "frame": 2345,
+        "time": 78.16666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.140329,
+        "median_rotation_vs_f2394_deg": 7.323358
+      },
+      {
+        "frame": 2346,
+        "time": 78.2,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.137905,
+        "median_rotation_vs_f2394_deg": 7.12333
+      },
+      {
+        "frame": 2347,
+        "time": 78.23333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.135352,
+        "median_rotation_vs_f2394_deg": 6.922153
+      },
+      {
+        "frame": 2348,
+        "time": 78.26666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.132537,
+        "median_rotation_vs_f2394_deg": 6.721627
+      },
+      {
+        "frame": 2349,
+        "time": 78.3,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.130066,
+        "median_rotation_vs_f2394_deg": 6.521906
+      },
+      {
+        "frame": 2350,
+        "time": 78.33333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.126322,
+        "median_rotation_vs_f2394_deg": 6.315639
+      },
+      {
+        "frame": 2351,
+        "time": 78.36666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.122712,
+        "median_rotation_vs_f2394_deg": 6.11781
+      },
+      {
+        "frame": 2352,
+        "time": 78.4,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.119332,
+        "median_rotation_vs_f2394_deg": 5.91503
+      },
+      {
+        "frame": 2353,
+        "time": 78.43333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.115476,
+        "median_rotation_vs_f2394_deg": 5.71814
+      },
+      {
+        "frame": 2354,
+        "time": 78.46666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.112001,
+        "median_rotation_vs_f2394_deg": 5.514358
+      },
+      {
+        "frame": 2355,
+        "time": 78.5,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.108403,
+        "median_rotation_vs_f2394_deg": 5.316978
+      },
+      {
+        "frame": 2356,
+        "time": 78.53333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.104766,
+        "median_rotation_vs_f2394_deg": 5.168935
+      },
+      {
+        "frame": 2357,
+        "time": 78.56666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.101271,
+        "median_rotation_vs_f2394_deg": 5.028907
+      },
+      {
+        "frame": 2358,
+        "time": 78.6,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.097535,
+        "median_rotation_vs_f2394_deg": 4.888936
+      },
+      {
+        "frame": 2359,
+        "time": 78.63333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.093866,
+        "median_rotation_vs_f2394_deg": 4.743617
+      },
+      {
+        "frame": 2360,
+        "time": 78.66666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.090436,
+        "median_rotation_vs_f2394_deg": 4.602113
+      },
+      {
+        "frame": 2361,
+        "time": 78.7,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.086614,
+        "median_rotation_vs_f2394_deg": 4.461091
+      },
+      {
+        "frame": 2362,
+        "time": 78.73333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.083003,
+        "median_rotation_vs_f2394_deg": 4.315202
+      },
+      {
+        "frame": 2363,
+        "time": 78.76666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.079547,
+        "median_rotation_vs_f2394_deg": 4.174456
+      },
+      {
+        "frame": 2364,
+        "time": 78.8,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.075745,
+        "median_rotation_vs_f2394_deg": 4.027532
+      },
+      {
+        "frame": 2365,
+        "time": 78.83333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.07219,
+        "median_rotation_vs_f2394_deg": 3.886206
+      },
+      {
+        "frame": 2366,
+        "time": 78.86666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.068649,
+        "median_rotation_vs_f2394_deg": 3.745675
+      },
+      {
+        "frame": 2367,
+        "time": 78.9,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.065022,
+        "median_rotation_vs_f2394_deg": 3.602422
+      },
+      {
+        "frame": 2368,
+        "time": 78.93333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.061858,
+        "median_rotation_vs_f2394_deg": 3.459228
+      },
+      {
+        "frame": 2369,
+        "time": 78.96666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.058483,
+        "median_rotation_vs_f2394_deg": 3.32067
+      },
+      {
+        "frame": 2370,
+        "time": 79.0,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.055335,
+        "median_rotation_vs_f2394_deg": 3.174704
+      },
+      {
+        "frame": 2371,
+        "time": 79.03333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.051993,
+        "median_rotation_vs_f2394_deg": 3.035798
+      },
+      {
+        "frame": 2372,
+        "time": 79.06666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.048617,
+        "median_rotation_vs_f2394_deg": 2.898801
+      },
+      {
+        "frame": 2373,
+        "time": 79.1,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.045504,
+        "median_rotation_vs_f2394_deg": 2.762082
+      },
+      {
+        "frame": 2374,
+        "time": 79.13333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.042084,
+        "median_rotation_vs_f2394_deg": 2.627949
+      },
+      {
+        "frame": 2375,
+        "time": 79.16666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.038845,
+        "median_rotation_vs_f2394_deg": 2.493993
+      },
+      {
+        "frame": 2376,
+        "time": 79.2,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.035601,
+        "median_rotation_vs_f2394_deg": 2.352904
+      },
+      {
+        "frame": 2377,
+        "time": 79.23333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.033603,
+        "median_rotation_vs_f2394_deg": 2.216424
+      },
+      {
+        "frame": 2378,
+        "time": 79.26666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.03143,
+        "median_rotation_vs_f2394_deg": 2.080433
+      },
+      {
+        "frame": 2379,
+        "time": 79.3,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.029358,
+        "median_rotation_vs_f2394_deg": 1.94161
+      },
+      {
+        "frame": 2380,
+        "time": 79.33333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.027389,
+        "median_rotation_vs_f2394_deg": 1.803246
+      },
+      {
+        "frame": 2381,
+        "time": 79.36666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.025274,
+        "median_rotation_vs_f2394_deg": 1.667547
+      },
+      {
+        "frame": 2382,
+        "time": 79.4,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.023179,
+        "median_rotation_vs_f2394_deg": 1.535325
+      },
+      {
+        "frame": 2383,
+        "time": 79.43333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.021159,
+        "median_rotation_vs_f2394_deg": 1.395581
+      },
+      {
+        "frame": 2384,
+        "time": 79.46666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.019154,
+        "median_rotation_vs_f2394_deg": 1.260624
+      },
+      {
+        "frame": 2385,
+        "time": 79.5,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.017041,
+        "median_rotation_vs_f2394_deg": 1.124619
+      },
+      {
+        "frame": 2386,
+        "time": 79.53333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.015141,
+        "median_rotation_vs_f2394_deg": 0.997281
+      },
+      {
+        "frame": 2387,
+        "time": 79.56666666666666,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.013265,
+        "median_rotation_vs_f2394_deg": 0.877053
+      },
+      {
+        "frame": 2388,
+        "time": 79.6,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.011351,
+        "median_rotation_vs_f2394_deg": 0.748742
+      },
+      {
+        "frame": 2389,
+        "time": 79.63333333333334,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.009454,
+        "median_rotation_vs_f2394_deg": 0.624224
+      },
+      {
+        "frame": 2390,
+        "time": 79.66666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.007562,
+        "median_rotation_vs_f2394_deg": 0.500748
+      },
+      {
+        "frame": 2391,
+        "time": 79.7,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.005682,
+        "median_rotation_vs_f2394_deg": 0.375348
+      },
+      {
+        "frame": 2392,
+        "time": 79.73333333333333,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.00379,
+        "median_rotation_vs_f2394_deg": 0.248771
+      },
+      {
+        "frame": 2393,
+        "time": 79.76666666666667,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.001911,
+        "median_rotation_vs_f2394_deg": 0.126153
+      },
+      {
+        "frame": 2394,
+        "time": 79.8,
+        "cohort_points": 91,
+        "median_radial_scale_vs_f2394": 1.0,
+        "median_rotation_vs_f2394_deg": 0.0
+      }
+    ]
+  }
+}

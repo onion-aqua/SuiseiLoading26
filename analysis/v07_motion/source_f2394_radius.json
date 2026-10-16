@@ -1,0 +1,17 @@
+{
+  "source_frame": 2394,
+  "time": 79.8,
+  "center": [
+    640,
+    360
+  ],
+  "radial_hough_endpoint_radius_px": {
+    "p25": 108.26417981636557,
+    "median": 293.8856699365516,
+    "p75": 388.6578955930186,
+    "p95": 634.6429119792895,
+    "p99": 653.6129139801417,
+    "max": 654.2056251668889
+  },
+  "interpretation": "Hough line endpoint radius is chart spoke extent, not innermost border. Dense gold border is clipped/aliased at this frame; Sfinal depends on the chosen semantic geometry. Use old radius estimate646 for outer visible endpoint and644 for first-loop f2395; keep Sfinal=1.0 normalized to f2394 chart network."
+}

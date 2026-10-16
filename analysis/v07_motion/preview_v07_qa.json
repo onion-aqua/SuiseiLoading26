@@ -1,0 +1,24 @@
+{
+  "file": "C:\\Users\\cheny\\Desktop\\suisei openloading\\Preview_Details_v07.html",
+  "right_video": "Suisei_Loading_Rebuild_Preview_v07.mp4",
+  "left_options": [
+    "sc.mp4",
+    "Suisei_Loading_Rebuild_Preview_v06.mp4"
+  ],
+  "frame_count": 2395,
+  "fps": 30,
+  "key_buttons": {
+    "one_second": 30,
+    "large_star_flicker_20.267": 608,
+    "large_star_flicker_20.367": 611,
+    "large_star_flicker_20.667": 620,
+    "circle_74.2": 2226,
+    "circle_74.3": 2229,
+    "title_star_off_75.667": 2270,
+    "reentry_77.1": 2313,
+    "reentry_77.5": 2325,
+    "reentry_78": 2340,
+    "reentry_79.167": 2375
+  },
+  "verification": "HTML source checked for exact frame buttons, v06 comparison option, v07 right video path and v07 error caption."
+}

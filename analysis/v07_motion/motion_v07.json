@@ -1,0 +1,672 @@
+{
+  "source": {
+    "reference": "sc.mp4",
+    "compare": "analysis/v06/final_render.mp4",
+    "fps": 30,
+    "frame_index": "zero_based",
+    "reference_endpoint_frame": 2394,
+    "center": [
+      640,
+      360
+    ]
+  },
+  "ring": {
+    "layer": "V06 | title orbital pulse",
+    "measurement": "Per-frame radial luma profiles sampled at0.1px spacing over1440 angles; exclude title y295..425; bilinear sampling. No contour tracing. The reference circle follows r~271.6/385.6/534.9/591.7/686.8 at2229/2230/2231/2235/2236.",
+    "high_confidence_observation": {
+      "reference_profile_FWHM_px": 2.9,
+      "v06_profile_FWHM_px": 2.0,
+      "reference_peak_luma_over_background": 145.7,
+      "v06_peak_luma_over_background": 37.2,
+      "reference_radius_matches_v06_within_px": 0.7
+    },
+    "timing_action": "Retain existing radius and pulse timing keys. Increase stroke width/brightness only.",
+    "recommended_screen_stroke_width_px": 2.5,
+    "recommended_screen_stroke_width_range_px": [
+      2.2,
+      2.5
+    ],
+    "recommended_opacity_percent": 100,
+    "recommended_gold_RGBA": [
+      0.7607843137254902,
+      0.6039215686274509,
+      0.40784313725490196,
+      1
+    ],
+    "compensated_native_stroke_expression": "2.5/Math.max(.01,transform.scale[0]/100);",
+    "target_render_profile_FWHM_px": [
+      2.8,
+      3.2
+    ],
+    "target_render_peak_luma_over_background": [
+      125,
+      150
+    ],
+    "estimate_note": "Native2.5px is a reconstruction estimate to produce observed2.9px FWHM afterAA/video. MeasuredFWHM is not literal AE stroke width. V06 native.7px and65% opacity are visibly thin/dim.",
+    "measurement_file": "ring_luma_width_measurements.json"
+  },
+  "chart_world_scale": {
+    "apply_to": "MAIN CHART precomposition transform, independent of RIG border scale; construction grid may follow this same scale. Individual constellation groups stay near100% and only add tiny local bounce.",
+    "ratio_reference": "1.0 equals actual sourcef2394 constellation radial size. Sourcef2395 is smaller by1/1.0028443=.997164, NOT exactly1.0, because f2394 precedes the next-loop frame0 by one motion step.",
+    "calibration_requirement": "Match CHART native geometry atf2394 first. If native endpoint world scale is Sfinal, desiredworldscale=Sfinal*ratio. Parent compensation localCHARTscale=100*desiredworldscale/(Rig.scale[0]/100). Preserve existing parent position.",
+    "world_scale_ratio_frame_keys": [
+      [
+        2304,
+        0.18
+      ],
+      [
+        2307,
+        0.23
+      ],
+      [
+        2310,
+        0.3
+      ],
+      [
+        2313,
+        0.395807
+      ],
+      [
+        2316,
+        0.499464
+      ],
+      [
+        2319,
+        0.535265
+      ],
+      [
+        2322,
+        0.664909
+      ],
+      [
+        2325,
+        0.70452
+      ],
+      [
+        2328,
+        0.767017
+      ],
+      [
+        2331,
+        0.830968
+      ],
+      [
+        2334,
+        0.842955
+      ],
+      [
+        2337,
+        0.884756
+      ],
+      [
+        2340,
+        0.915477
+      ],
+      [
+        2343,
+        0.945747
+      ],
+      [
+        2346,
+        0.967483
+      ],
+      [
+        2349,
+        0.971924
+      ],
+      [
+        2352,
+        0.987548
+      ],
+      [
+        2355,
+        1.004587
+      ],
+      [
+        2360,
+        1.013329
+      ],
+      [
+        2365,
+        1.018952
+      ],
+      [
+        2370,
+        1.021653
+      ],
+      [
+        2375,
+        1.022365
+      ],
+      [
+        2380,
+        1.020081
+      ],
+      [
+        2385,
+        1.013403
+      ],
+      [
+        2390,
+        1.005038
+      ],
+      [
+        2394,
+        1.0
+      ],
+      [
+        2395,
+        0.997164
+      ]
+    ],
+    "per_frame_measured_ratio_keys": [
+      [
+        2312,
+        0.378566
+      ],
+      [
+        2313,
+        0.395807
+      ],
+      [
+        2314,
+        0.395808
+      ],
+      [
+        2315,
+        0.439414
+      ],
+      [
+        2316,
+        0.499464
+      ],
+      [
+        2317,
+        0.499466
+      ],
+      [
+        2318,
+        0.535263
+      ],
+      [
+        2319,
+        0.535265
+      ],
+      [
+        2320,
+        0.606187
+      ],
+      [
+        2321,
+        0.664852
+      ],
+      [
+        2322,
+        0.664909
+      ],
+      [
+        2323,
+        0.681354
+      ],
+      [
+        2324,
+        0.68136
+      ],
+      [
+        2325,
+        0.70452
+      ],
+      [
+        2326,
+        0.747699
+      ],
+      [
+        2327,
+        0.747699
+      ],
+      [
+        2328,
+        0.767017
+      ],
+      [
+        2329,
+        0.767017
+      ],
+      [
+        2330,
+        0.802303
+      ],
+      [
+        2331,
+        0.830968
+      ],
+      [
+        2332,
+        0.830969
+      ],
+      [
+        2333,
+        0.842951
+      ],
+      [
+        2334,
+        0.842955
+      ],
+      [
+        2335,
+        0.865349
+      ],
+      [
+        2336,
+        0.884756
+      ],
+      [
+        2337,
+        0.884756
+      ],
+      [
+        2338,
+        0.894
+      ],
+      [
+        2339,
+        0.894004
+      ],
+      [
+        2340,
+        0.915477
+      ],
+      [
+        2341,
+        0.938406
+      ],
+      [
+        2342,
+        0.938375
+      ],
+      [
+        2343,
+        0.945747
+      ],
+      [
+        2344,
+        0.945747
+      ],
+      [
+        2345,
+        0.957442
+      ],
+      [
+        2346,
+        0.967483
+      ],
+      [
+        2347,
+        0.967483
+      ],
+      [
+        2348,
+        0.971954
+      ],
+      [
+        2349,
+        0.971924
+      ],
+      [
+        2350,
+        0.980183
+      ],
+      [
+        2351,
+        0.987568
+      ],
+      [
+        2352,
+        0.987548
+      ],
+      [
+        2353,
+        0.992798
+      ],
+      [
+        2354,
+        0.992773
+      ],
+      [
+        2355,
+        1.004587
+      ],
+      [
+        2356,
+        1.008434
+      ],
+      [
+        2357,
+        1.00838
+      ],
+      [
+        2358,
+        1.010234
+      ],
+      [
+        2359,
+        1.010234
+      ],
+      [
+        2360,
+        1.013329
+      ],
+      [
+        2361,
+        1.015872
+      ],
+      [
+        2362,
+        1.015872
+      ],
+      [
+        2363,
+        1.017056
+      ],
+      [
+        2364,
+        1.017053
+      ],
+      [
+        2365,
+        1.018952
+      ],
+      [
+        2366,
+        1.020264
+      ],
+      [
+        2367,
+        1.020265
+      ],
+      [
+        2368,
+        1.020784
+      ],
+      [
+        2369,
+        1.020784
+      ],
+      [
+        2370,
+        1.021653
+      ],
+      [
+        2371,
+        1.02216
+      ],
+      [
+        2372,
+        1.022159
+      ],
+      [
+        2373,
+        1.022213
+      ],
+      [
+        2374,
+        1.022212
+      ],
+      [
+        2375,
+        1.022365
+      ],
+      [
+        2376,
+        1.022011
+      ],
+      [
+        2377,
+        1.02201
+      ],
+      [
+        2378,
+        1.021402
+      ],
+      [
+        2379,
+        1.021402
+      ],
+      [
+        2380,
+        1.020081
+      ],
+      [
+        2381,
+        1.018494
+      ],
+      [
+        2382,
+        1.018493
+      ],
+      [
+        2383,
+        1.01704
+      ],
+      [
+        2384,
+        1.017035
+      ],
+      [
+        2385,
+        1.013403
+      ],
+      [
+        2386,
+        1.010136
+      ],
+      [
+        2387,
+        1.010128
+      ],
+      [
+        2388,
+        1.008447
+      ],
+      [
+        2389,
+        1.008448
+      ],
+      [
+        2390,
+        1.005038
+      ],
+      [
+        2391,
+        1.001573
+      ],
+      [
+        2392,
+        1.001574
+      ],
+      [
+        2393,
+        0.999999
+      ],
+      [
+        2394,
+        1.0
+      ]
+    ],
+    "world_rotation_relative_source0_frame_keys": [
+      [
+        2325,
+        11.993297
+      ],
+      [
+        2340,
+        8.685594
+      ],
+      [
+        2355,
+        5.671096
+      ],
+      [
+        2370,
+        3.526155
+      ],
+      [
+        2385,
+        1.469467
+      ],
+      [
+        2394,
+        0.3426555003764566
+      ],
+      [
+        2395,
+        0
+      ]
+    ],
+    "key_interpolation": "Use linear interpolation for dense measured keys; source repeated frames are retained in per-frame data. Avoid applying repeated easy-ease to each sample.",
+    "confidence": {
+      "2304_2310": "estimated while no stable network tracks exist. Hidden preappearance scale has little visible impact.",
+      "2313_2322": "low-to-medium:5–10 surviving angular-coherent points; source birth/growth complicates correspondence.",
+      "2325_2394": "medium-high:fixed12point cohort tracked backward fromSIFT/RANSAC endpoint; never substitute changing per-frame populationmedian.",
+      "2395": "high:source0 vs2395 SIFT348 inliers confirms seam; scale normalization uses source0 vs2394 scale1.002844."
+    },
+    "measured_world_overshoot": {
+      "reference_fixed_cohort_peak_frame": 2375,
+      "reference_fixed_cohort_peak_ratio": 1.022365,
+      "v06_fixed_cohort_peak_frame": 2340,
+      "v06_fixed_cohort_peak_ratio": 1.153123,
+      "interpretation": "V06 world-scale peak occurs1.17sec too early and is about13.1percentagepoints larger than measured referencecohort. Correct this before adding a local spring."
+    },
+    "do_not_do": [
+      "Do not multiply worldgrowth curve by old20->40->95->100 groupgrowth a second time.",
+      "Do not apply the additional2–3percent local spring to the RIG outer-border null.",
+      "Do not force f2394 equal frame0; f2395 is frame0."
+    ]
+  },
+  "birth_and_visibility": {
+    "first_clear_line_network_frame_estimate": 2312,
+    "first_clear_line_network_time": 77.06666666666666,
+    "observed_notes": [
+      "76.8–77.0 is led by gold meridians, circles and the central title; background white stars do not count as newly born constellation nodes.",
+      "By77.1 small constellation branches and their points are distinguishable; by77.2 several groups are visibly assembled.",
+      "By77.5 most majorgroups are identifiable but still expanding; sourceworld size is only.7045 of endpoint."
+    ],
+    "suggested_network_reveal_frame_keys_estimate": [
+      [
+        2308,
+        0
+      ],
+      [
+        2310,
+        3
+      ],
+      [
+        2313,
+        25
+      ],
+      [
+        2316,
+        50
+      ],
+      [
+        2319,
+        72
+      ],
+      [
+        2322,
+        84
+      ],
+      [
+        2325,
+        93
+      ],
+      [
+        2331,
+        100
+      ]
+    ],
+    "suggested_group_birth_formula_estimate": "birth_time=77.02+0.18*clamp(mean_group_radius/494,0,1); groupopacity0 atbirth-.033,100 atbirth+.12; TrimPaths0 atbirth,100 atbirth+.42.",
+    "percentage_caution": "These percentages are visual estimates for authoringTrimPaths, not measured percentage of21groups or exact number ofvisible points. Automaticwhite-pixel counting was rejected because the many goldmeridians/whitegrid/backgroundstars contaminate it."
+  },
+  "local_group_spring_estimate_user_requested": {
+    "status": "User-requested refinement estimate, not a measured repeated bounce in source.",
+    "apply_to": "Each constellationgroup around its own centroid, after independentCHARTworldscale; maximum3percent.",
+    "centroid_note": "Set group transformanchor andposition to the same semanticnetworkcentroid so rotation/scale occur about the constellation itself and do not move the chartcenter.",
+    "frame_offsets_from_birth_and_scale_percent": [
+      [
+        0,
+        94
+      ],
+      [
+        7,
+        102.6
+      ],
+      [
+        12,
+        99.0
+      ],
+      [
+        18,
+        100.28
+      ],
+      [
+        24,
+        100
+      ]
+    ],
+    "frame_offsets_from_birth_and_rotation_offset_deg": [
+      [
+        0,
+        1.1
+      ],
+      [
+        7,
+        -0.45
+      ],
+      [
+        12,
+        0.16
+      ],
+      [
+        18,
+        -0.05
+      ],
+      [
+        24,
+        0
+      ]
+    ],
+    "rotation_direction": "Alternate sign by groupindex for localsettling; leave measured globalchartphase unchanged.",
+    "lag_variation_frames": [
+      0,
+      5
+    ],
+    "damping_comment": "One clearovershoot andsmallsettling are sufficient. No highconfidence evidence supports a largeglobalangular oscillation; measuredsourcephase is monotonic toward0."
+  },
+  "validation_frames": [
+    2226,
+    2229,
+    2230,
+    2231,
+    2235,
+    2236,
+    2310,
+    2313,
+    2316,
+    2319,
+    2325,
+    2340,
+    2355,
+    2375,
+    2394,
+    2395
+  ],
+  "evidence": [
+    "ring_contact.jpg",
+    "reentry_contact.jpg",
+    "ring_luma_width_measurements.json",
+    "reentry_tracked.json",
+    "reentry_fixed_cohort.json"
+  ],
+  "scope": "Analysis only; no AE modifications and no v06 builder modifications."
+}

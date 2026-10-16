@@ -1,0 +1,1176 @@
+{
+  "metadata": {
+    "source": "sc.mp4 decoded frame 0 through frame 90 inclusive",
+    "analysis": "Brightness is local and independent. Gold four/eight-ray decorations pulse strongly; bright white constellation stars fluctuate mildly. No global grid opacity wave or particle spray was observed.",
+    "coordinate_system": "Native chart origin [0,0], layer position [700,700]; source30 inverse phase +5.124166667 deg and inverse scale494/614 applied.",
+    "source_center": [
+      640,
+      360
+    ],
+    "reference_frame": 30,
+    "reference_radius": 614,
+    "native_border_radius": 494,
+    "source_phase_samples": [
+      [
+        0,
+        0.0
+      ],
+      [
+        15,
+        -2.494659
+      ],
+      [
+        30,
+        -5.119667
+      ],
+      [
+        45,
+        -7.806229
+      ],
+      [
+        60,
+        -10.535524
+      ],
+      [
+        90,
+        -16.284656
+      ]
+    ],
+    "pulse_sampling": "Every source frame sampled in a fixed small neighborhood along chart-rigid trajectory; area compensated for shrinking chart, smoothed 1.6 frames. Center/ray classes picked semantically by eye; no raster contours retained.",
+    "keyframes": "All frame numbers are source 30fps frames. Interpolate opacity and scale continuously; avoid Hold. Measured window ends90; continue low-amplitude independent cycles after it if needed.",
+    "counts": {
+      "gold": 32,
+      "white_reinforcements": 12
+    }
+  },
+  "white_glints": [
+    {
+      "name": "White star-cluster reinforcement 01",
+      "x": -112.63357,
+      "y": -31.95081,
+      "core_radius": 2.09186,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 6.43648,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        497.0186686533152,
+        332.95004163197336
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          90.91
+        ],
+        [
+          30,
+          93.21
+        ],
+        [
+          45,
+          94.11
+        ],
+        [
+          60,
+          96.54
+        ],
+        [
+          75,
+          95.22
+        ],
+        [
+          90,
+          94.21
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.97
+        ],
+        [
+          15,
+          102.98
+        ],
+        [
+          30,
+          103.42
+        ],
+        [
+          45,
+          103.59
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          103.8
+        ],
+        [
+          90,
+          103.61
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        28561.7,
+        33432.4,
+        35515.0,
+        36336.7,
+        38538.2,
+        36421.7
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 02",
+      "x": -246.68005,
+      "y": -244.72648,
+      "core_radius": 1.85049,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        307.45587707331083,
+        84.42543261291017
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          93.74
+        ],
+        [
+          15,
+          94.15
+        ],
+        [
+          30,
+          94.07
+        ],
+        [
+          45,
+          93.78
+        ],
+        [
+          60,
+          93.41
+        ],
+        [
+          75,
+          94.51
+        ],
+        [
+          90,
+          94.91
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.73
+        ],
+        [
+          15,
+          103.81
+        ],
+        [
+          30,
+          103.79
+        ],
+        [
+          45,
+          103.74
+        ],
+        [
+          60,
+          103.66
+        ],
+        [
+          75,
+          103.88
+        ],
+        [
+          90,
+          103.96
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        22661.3,
+        22895.8,
+        22849.9,
+        22685.0,
+        22472.0,
+        23327.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 03",
+      "x": -374.91331,
+      "y": -216.14997,
+      "core_radius": 1.44821,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 4.0228,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        151.88209050350542,
+        134.036859995751
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          92.79
+        ],
+        [
+          15,
+          93.96
+        ],
+        [
+          30,
+          93.75
+        ],
+        [
+          45,
+          93.3
+        ],
+        [
+          60,
+          93.86
+        ],
+        [
+          75,
+          93.78
+        ],
+        [
+          90,
+          96.24
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.36
+        ],
+        [
+          15,
+          103.59
+        ],
+        [
+          30,
+          103.55
+        ],
+        [
+          45,
+          103.46
+        ],
+        [
+          60,
+          103.57
+        ],
+        [
+          75,
+          103.55
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        15395.3,
+        15859.9,
+        15774.8,
+        15595.1,
+        15816.8,
+        16764.3
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 04",
+      "x": -343.64881,
+      "y": -201.73523,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        192.18609742747674,
+        148.4108739281153
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          93.93
+        ],
+        [
+          15,
+          93.29
+        ],
+        [
+          30,
+          94.06
+        ],
+        [
+          45,
+          92.8
+        ],
+        [
+          60,
+          93.9
+        ],
+        [
+          75,
+          94.47
+        ],
+        [
+          90,
+          97.86
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.71
+        ],
+        [
+          15,
+          103.59
+        ],
+        [
+          30,
+          103.74
+        ],
+        [
+          45,
+          103.5
+        ],
+        [
+          60,
+          103.71
+        ],
+        [
+          75,
+          103.82
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        10768.3,
+        10595.5,
+        10804.8,
+        10464.5,
+        10760.9,
+        11829.4
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 05",
+      "x": -371.41624,
+      "y": 38.90327,
+      "core_radius": 1.60912,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        184.524798675397,
+        449.39120945284867
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          94.0
+        ],
+        [
+          15,
+          93.62
+        ],
+        [
+          30,
+          95.91
+        ],
+        [
+          45,
+          94.15
+        ],
+        [
+          60,
+          93.79
+        ],
+        [
+          75,
+          93.73
+        ],
+        [
+          90,
+          93.79
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.61
+        ],
+        [
+          15,
+          103.54
+        ],
+        [
+          30,
+          103.98
+        ],
+        [
+          45,
+          103.64
+        ],
+        [
+          60,
+          103.58
+        ],
+        [
+          75,
+          103.56
+        ],
+        [
+          90,
+          103.58
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        21714.3,
+        21505.8,
+        22753.7,
+        21795.2,
+        21602.0,
+        21602.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 06",
+      "x": -237.6749,
+      "y": 108.4085,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.0228,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        357.80536818437326,
+        520.5883923552558
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          88.0
+        ],
+        [
+          30,
+          93.55
+        ],
+        [
+          45,
+          94.32
+        ],
+        [
+          60,
+          94.26
+        ],
+        [
+          75,
+          94.27
+        ],
+        [
+          90,
+          94.1
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.05
+        ],
+        [
+          15,
+          102.44
+        ],
+        [
+          30,
+          103.66
+        ],
+        [
+          45,
+          103.81
+        ],
+        [
+          60,
+          103.8
+        ],
+        [
+          75,
+          103.8
+        ],
+        [
+          90,
+          103.77
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        92.0,
+        11091.1,
+        13192.9,
+        13451.2,
+        13431.9,
+        13378.7
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 07",
+      "x": -47.79037,
+      "y": 124.83444,
+      "core_radius": 1.44821,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        594.6959271829683,
+        519.8437210737427
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          89.54
+        ],
+        [
+          30,
+          92.59
+        ],
+        [
+          45,
+          94.0
+        ],
+        [
+          60,
+          95.4
+        ],
+        [
+          75,
+          95.95
+        ],
+        [
+          90,
+          96.54
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          99.45
+        ],
+        [
+          15,
+          102.73
+        ],
+        [
+          30,
+          103.31
+        ],
+        [
+          45,
+          103.57
+        ],
+        [
+          60,
+          103.84
+        ],
+        [
+          75,
+          103.94
+        ],
+        [
+          90,
+          104.0
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        5918.6,
+        11551.4,
+        12542.3,
+        13000.7,
+        13456.0,
+        13826.8
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 08",
+      "x": -23.72164,
+      "y": 252.01322,
+      "core_radius": 1.77003,
+      "kind": "burst16",
+      "ray_points": 16,
+      "ray_radius": 5.63192,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 5.23,
+      "glow_intensity": 0.35,
+      "source_point": [
+        638.6098886648549,
+        674.6125186289121
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          91.73
+        ],
+        [
+          30,
+          94.61
+        ],
+        [
+          45,
+          94.59
+        ],
+        [
+          60,
+          94.13
+        ],
+        [
+          75,
+          94.04
+        ],
+        [
+          90,
+          94.03
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          102.48
+        ],
+        [
+          15,
+          103.44
+        ],
+        [
+          30,
+          104.0
+        ],
+        [
+          45,
+          104.0
+        ],
+        [
+          60,
+          103.91
+        ],
+        [
+          75,
+          103.89
+        ],
+        [
+          90,
+          103.89
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        14808.1,
+        17000.3,
+        18298.1,
+        18291.1,
+        18082.6,
+        18037.1
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 09",
+      "x": 223.8581,
+      "y": -151.64913,
+      "core_radius": 1.44821,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        900.2900043522415,
+        147.41578412882635
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          89.75
+        ],
+        [
+          30,
+          95.02
+        ],
+        [
+          45,
+          96.63
+        ],
+        [
+          60,
+          96.03
+        ],
+        [
+          75,
+          93.22
+        ],
+        [
+          90,
+          93.78
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          96.18
+        ],
+        [
+          15,
+          102.67
+        ],
+        [
+          30,
+          103.65
+        ],
+        [
+          45,
+          103.96
+        ],
+        [
+          60,
+          103.84
+        ],
+        [
+          75,
+          103.32
+        ],
+        [
+          90,
+          103.42
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        296.2,
+        10809.5,
+        12399.9,
+        12889.5,
+        12705.5,
+        12027.6
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 10",
+      "x": 230.60959,
+      "y": 273.4656,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        955.8400698267759,
+        672.9360816436149
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          91.87
+        ],
+        [
+          15,
+          94.21
+        ],
+        [
+          30,
+          93.65
+        ],
+        [
+          45,
+          93.47
+        ],
+        [
+          60,
+          94.57
+        ],
+        [
+          75,
+          93.91
+        ],
+        [
+          90,
+          93.53
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          103.48
+        ],
+        [
+          15,
+          103.94
+        ],
+        [
+          30,
+          103.83
+        ],
+        [
+          45,
+          103.79
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          103.88
+        ],
+        [
+          90,
+          103.8
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        11909.8,
+        12643.1,
+        12469.3,
+        12413.3,
+        12758.2,
+        12430.0
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 11",
+      "x": -339.49546,
+      "y": -64.66484,
+      "core_radius": 1.36775,
+      "kind": "burst8",
+      "ray_points": 8,
+      "ray_radius": 4.82736,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        212.54393816110658,
+        317.6357811228641
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          92.33
+        ],
+        [
+          15,
+          92.69
+        ],
+        [
+          30,
+          94.45
+        ],
+        [
+          45,
+          93.2
+        ],
+        [
+          60,
+          100.0
+        ],
+        [
+          75,
+          93.61
+        ],
+        [
+          90,
+          93.61
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.03
+        ],
+        [
+          15,
+          101.08
+        ],
+        [
+          30,
+          101.31
+        ],
+        [
+          45,
+          101.15
+        ],
+        [
+          60,
+          104.0
+        ],
+        [
+          75,
+          101.2
+        ],
+        [
+          90,
+          101.2
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        15686.7,
+        15832.8,
+        16554.0,
+        16040.3,
+        27681.8,
+        16209.6
+      ]
+    },
+    {
+      "name": "White star-cluster reinforcement 12",
+      "x": -138.47506,
+      "y": 66.01704,
+      "core_radius": 1.36775,
+      "kind": "round",
+      "ray_points": 0,
+      "ray_radius": 2.41368,
+      "ray_inner_radius": 0.36205,
+      "ray_opacity": 72,
+      "core_opacity": 100,
+      "color": [
+        1,
+        0.975,
+        1,
+        1
+      ],
+      "glow_radius": 3.621,
+      "glow_intensity": 0.35,
+      "source_point": [
+        475.9036873968079,
+        457.09778022381215
+      ],
+      "source_frame": 30,
+      "recommended_mode": "overlay_existing_v06_star_core_and_rays",
+      "opacity_frame_keys": [
+        [
+          0,
+          88.0
+        ],
+        [
+          15,
+          91.17
+        ],
+        [
+          30,
+          94.5
+        ],
+        [
+          45,
+          93.98
+        ],
+        [
+          60,
+          94.11
+        ],
+        [
+          75,
+          93.62
+        ],
+        [
+          90,
+          94.29
+        ]
+      ],
+      "scale_frame_keys": [
+        [
+          0,
+          101.46
+        ],
+        [
+          15,
+          103.27
+        ],
+        [
+          30,
+          103.92
+        ],
+        [
+          45,
+          103.82
+        ],
+        [
+          60,
+          103.85
+        ],
+        [
+          75,
+          103.75
+        ],
+        [
+          90,
+          103.88
+        ]
+      ],
+      "brightness_samples_0_15_30_45_60_90": [
+        6307.0,
+        8403.6,
+        9155.0,
+        9038.9,
+        9066.2,
+        9107.0
+      ]
+    }
+  ]
+}

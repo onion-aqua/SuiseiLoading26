@@ -1,0 +1,154 @@
+[
+  {
+    "path": "analysis/v07_chart/opening_twinkle.json",
+    "bytes": 80270
+  },
+  {
+    "path": "analysis/v07_chart/twinkle_measurements.json",
+    "bytes": 110226
+  },
+  {
+    "path": "analysis/v07_chart/white_glints.json",
+    "bytes": 21374
+  },
+  {
+    "path": "analysis/v07_icons/03_hourglass_v07.svg",
+    "bytes": 13639
+  },
+  {
+    "path": "analysis/v07_icons/04_crescent_moon_v07.svg",
+    "bytes": 46025
+  },
+  {
+    "path": "analysis/v07_icons/10_double_axe_v07.svg",
+    "bytes": 9387
+  },
+  {
+    "path": "analysis/v07_icons/15_wide_brim_hat_v07.svg",
+    "bytes": 19565
+  },
+  {
+    "path": "analysis/v07_icons/icons_v07_refined.json",
+    "bytes": 621047
+  },
+  {
+    "path": "analysis/v07_icons/refinement_metadata.json",
+    "bytes": 1192
+  },
+  {
+    "path": "analysis/v07_icons/report.md",
+    "bytes": 1756
+  },
+  {
+    "path": "analysis/v07_icons/title_center_glint_measurements.json",
+    "bytes": 15391
+  },
+  {
+    "path": "analysis/v07_icons/title_glint.json",
+    "bytes": 3048
+  },
+  {
+    "path": "analysis/v07_icons/title_glint_fits.json",
+    "bytes": 7139
+  },
+  {
+    "path": "analysis/v07_icons/title_glint_measurements.json",
+    "bytes": 430617
+  },
+  {
+    "path": "analysis/v07_motion/foundation_f2229_ring_measurement.json",
+    "bytes": 1497
+  },
+  {
+    "path": "analysis/v07_motion/motion_v07.json",
+    "bytes": 13454
+  },
+  {
+    "path": "analysis/v07_motion/preview_v07_qa.json",
+    "bytes": 770
+  },
+  {
+    "path": "analysis/v07_motion/reentry_fixed_cohort.json",
+    "bytes": 37465
+  },
+  {
+    "path": "analysis/v07_motion/reentry_tracked.json",
+    "bytes": 4246397
+  },
+  {
+    "path": "analysis/v07_motion/ring_luma_width_measurements.json",
+    "bytes": 8799
+  },
+  {
+    "path": "analysis/v07_motion/source_f2394_radius.json",
+    "bytes": 650
+  },
+  {
+    "path": "deliverables/Suisei_Loading_Editable_Project_v07.json",
+    "bytes": 29507560
+  },
+  {
+    "path": "deliverables/Suisei_Loading_Rebuild_v07.aep",
+    "bytes": 9500275
+  },
+  {
+    "path": "docs/Preview_Details_v07.html",
+    "bytes": 11189
+  },
+  {
+    "path": "docs/README_v07_帧级细节更新.md",
+    "bytes": 2147
+  },
+  {
+    "path": "docs/Suisei_Loading_v07_Comparison.jpg",
+    "bytes": 783473
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 11558
+  },
+  {
+    "path": "README.md",
+    "bytes": 847
+  },
+  {
+    "path": "upload_manifest.json",
+    "bytes": 2448
+  },
+  {
+    "path": "vector_sources/v07/chart/opening_twinkle.json",
+    "bytes": 80270
+  },
+  {
+    "path": "vector_sources/v07/chart/twinkle_measurements.json",
+    "bytes": 110226
+  },
+  {
+    "path": "vector_sources/v07/chart/white_glints.json",
+    "bytes": 21374
+  },
+  {
+    "path": "vector_sources/v07/icons/03_hourglass_v07.svg",
+    "bytes": 13639
+  },
+  {
+    "path": "vector_sources/v07/icons/04_crescent_moon_v07.svg",
+    "bytes": 46025
+  },
+  {
+    "path": "vector_sources/v07/icons/10_double_axe_v07.svg",
+    "bytes": 9387
+  },
+  {
+    "path": "vector_sources/v07/icons/15_wide_brim_hat_v07.svg",
+    "bytes": 19565
+  },
+  {
+    "path": "vector_sources/v07/icons/icons_v07_refined.json",
+    "bytes": 621047
+  },
+  {
+    "path": "vector_sources/v07/icons/refinement_metadata.json",
+    "bytes": 1192
+  }
+]

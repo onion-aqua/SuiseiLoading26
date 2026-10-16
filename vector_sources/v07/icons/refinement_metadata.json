@@ -1,0 +1,49 @@
+{
+  "changed": [
+    {
+      "index": 3,
+      "name": "hourglass",
+      "paths": 98,
+      "bezier_paths": 56,
+      "outline_vertices": 28
+    },
+    {
+      "index": 4,
+      "name": "crescent_moon",
+      "paths": 530,
+      "bezier_paths": 2,
+      "outline_vertices": 9
+    },
+    {
+      "index": 10,
+      "name": "double_axe",
+      "paths": 77,
+      "bezier_paths": 14,
+      "outline_vertices": 36
+    },
+    {
+      "index": 15,
+      "name": "wide_brim_hat",
+      "paths": 192,
+      "bezier_paths": 22,
+      "outline_vertices": 35
+    }
+  ],
+  "unchanged_indices": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    16
+  ],
+  "native_schema": "paths[].points with optional inTangents/outTangents; role outline or engraving; use fine stroke0.25-0.35 and opacity60-75",
+  "source_evidence": "source20/30/45 and inverse-pose crops in this folder, no raster artwork exported",
+  "anchor_policy": "Existing AE layer anchor points stay0,0. No source layer positions or rotations are changed. Moon carries its unchanged v06 transform metadata because the older full16 JSON predates moon_fuller."
+}
